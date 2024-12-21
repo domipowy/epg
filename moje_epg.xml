@@ -1,0 +1,44 @@
+<tv>
+    <channel id="program_1">
+        <display-name>Program 1</display-name>
+    </channel>
+	
+	  <channel id="super_radio">
+        <display-name>Super Radio</display-name>
+    </channel>
+
+    <programme start="20241221000000 +0000" stop="20241221003000 +0000" channel="program_1">
+        <title>Your Show Title</title>
+        <desc>Program Description</desc>
+    </programme>
+
+    <programme start="20241221003000 +0000" stop="20241221010000 +0000" channel="program_1">
+        <title>Another Show</title>
+        <desc>Another Program Description</desc>
+    </programme>
+
+
+    <programme start="20241221123000 +0000" stop="20241221124500 +0000" channel="program_1">
+        <title>Test</title>
+        <desc>Program testowy</desc>
+    </programme>    
+	
+	
+    <programme start="20241221141500 +0000" stop="20241221161500 +0000" channel="program_1">
+        <title>Przerwa Techniczna</title>
+        <desc>Tak</desc>
+    </programme>   
+	
+    <programme start="20241221200000 +0000" stop="20241221210000 +0000" channel="program_1">
+        <title>Piosenki w Programie 1</title>
+        <desc>Program w którym posłuchasz swoje ulubione i najlepsze piosenki emitowane na T1</desc>
+    </programme>   
+
+
+    <programme start="20241220230000 +0000" stop="20241221235900 +0000" channel="super_radio">
+        <title>Muzyka NON-STOP!</title>
+        <desc>Słuchaj nas 24H. Jesteśmy dostępni również w Zeno.FM</desc>
+    </programme>
+   
+</tv>
+
