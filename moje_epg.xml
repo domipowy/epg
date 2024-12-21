@@ -18,17 +18,37 @@
         <desc>Dziękujemy za oglądanie, Do zobaczenia wkrótce!</desc>
     </programme>   
 
-   <programme start="20241221141500 +0000" stop="20241222111500 +0000" channel="plus">
-        <title>Przerwa Techniczna</title>
-        <desc>Dziękujemy za oglądanie, Do zobaczenia wkrótce!</desc>
+   <programme start="20241221190000 +0000" stop="20241221203500 +0000" channel="plus">
+        <title>Galimatias, czyli Kogel-Mogel 2</title>
+        <desc>Film opowiada dalsze losy bohaterów komedii "Kogel-mogel". Po ślubie Kasia (Grażyna Błęcka-Kolska) i Paweł (Dariusz Siatkowski) Zawadowie urządzają się na wsi. Ojciec dziewczyny obiecuje przepisać na nich swoją ziemię. Stawia jednak warunek: chce doczekać się w końcu wnuka. Jego córka ma jednak inne plany. Marzy o powrocie na studia pedagogiczne i nie chce jeszcze zostać mamą. Jest to przyczyną konfliktu między Kasią a Pawłem. Tymczasem w życiu Zawadów ponownie pojawia się ekscentryczna rodzina Wolańskich. Marian (Zdzisław Wardejn) wraz z żoną (Ewa Kasprzyk) mają spędzić najbliższe dwa miesiące w Anglii. Proszą więc Kasię, aby ta przyjęła do swego domu w charakterze letników Piotrusia i jego babcię.</desc>
     </programme>   
 
+	   <programme start="20241221203500 +0000" stop="20241221221000 +0000" channel="plus">
+        <title>Nic śmiesznego</title>
+        <desc>Pewnego dnia sanitariusze szpitalni (Zbigniew Buczkowski, Sławomir Sulej), oglądając zwłoki w kostnicy, rozpoznają reżysera filmowego (Cezary PazuraMarek Kondrat). Mężczyzna, mimo że zmarł, zaczyna wspominać swoje życie. Zrobił karierę, kręcił filmy, miał liczne kochanki, ale nigdy nie urzeczywistnił swoich marzeń. Jego życie przeplatane było licznymi niepowodzeniami, które wyniszczały go od środka. Mimo że zrobił karierę w filmie, nie był zadowolony z życia.</desc>
+    </programme>   
+
+	   <programme start="20241221221000 +0000" stop="20241221234500 +0000" channel="plus">
+        <title>Martwa Cisza</title>
+        <desc>Jamie i Lisa to nowożeńcy którzy układają sobie życie z dala od ich rodzinnego miasteczka Raven Fair, gdzie ludzie żyją w strachu przed starymi legendami i zabobonami. Gdy pewnego dnia Lisa zostaje brutalnie zamordowana, Jamie wraca w rodzinne strony, by pochować ukochaną i rozwiązać zagadkę stojącą za jej śmiercią.</desc>
+    </programme>   	
+
+	   <programme start="20241221234500 +0000" stop="20241222060000 +0000" channel="plus">
+        <title>Zakończenie programu</title>
+        <desc>Dziękujemy za oglądanie, Do zobaczenia wkrótce!</desc>
+    </programme>   	
+	
     <programme start="20241220230000 +0000" stop="20241221235900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
     </programme>
 
-	 <programme start="20241221230000 +0000" stop="20241222235900 +0000" channel="super_radio">
+	 <programme start="20241221000000 +0000" stop="20241222235900 +0000" channel="super_radio">
+        <title>Muzyka NON-STOP!</title>
+        <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
+    </programme>
+
+ <programme start="20241223230000 +0000" stop="20241223235900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
     </programme>
