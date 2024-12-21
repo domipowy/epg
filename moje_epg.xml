@@ -28,6 +28,11 @@
         <title>Przerwa Techniczna</title>
         <desc>Tak</desc>
     </programme>   
+
+	<programme start="20241221141500 +0000" stop="20241221161500 +0000" channel="program_1">
+        <title>TVN TO GÓWNO</title>
+        <desc>ERWFUIOHDSWUHFWDSUFWDHU9FDSHDSF8U9IFDES8U9IYFEH7U7FEHY7UFD9SYOH8DFSIUYUFDS87DFHYFSD87YSDF879SDFYUSDF890SDFYUSDF0YDF78SSDF89YDFS</desc>
+    </programme>   
 	
     <programme start="20241221200000 +0000" stop="20241221210000 +0000" channel="program_1">
         <title>Piosenki w Programie 1</title>
