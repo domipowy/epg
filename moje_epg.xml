@@ -13,23 +13,36 @@
 
 
 	
-    <programme start="20241221141500 +0000" stop="20241222111500 +0000" channel="program_1">
-        <title>Przerwa Techniczna</title>
-        <desc>Dziękujemy za oglądanie, Do zobaczenia wkrótce!</desc>
+    <programme start="20241231185000 +0000" stop="20241231190000 +0000" channel="program_1">
+        <title>Informacje w Jedynce</title>
+        <desc>Program informacyjny, gdzie są podawane najważniejsze informacje z kraju i świata.</desc>
     </programme>   
 
+  <programme start="20241231190000 +0000" stop="20241231205500 +0000" channel="program_1">
+        <title>Sala samobójców</title>
+        <desc>Dominik to zwyczajny chłopak. Ma wielu znajomych, najładniejszą dziewczynę w szkole, bogatych rodziców, pieniądze na ciuchy, gadżety, imprezy i pewnego dnia jeden pocałunek zmienia wszystko. "Ona" zaczepia go w sieci. Jest intrygująca, niebezpieczna, przebiegła. Wprowadza go do "Sali samobójców", miejsca, z którego nie ma ucieczki. Dominik, w pułapce własnych uczuć, wplątany w śmiertelną intrygę, straci to, co w życiu najcenniejsze.</desc>
+    </programme>   
 
-	   <programme start="20241221234500 +0000" stop="20241222060000 +0000" channel="plus">
-        <title>Zakończenie programu</title>
-        <desc>Dziękujemy za oglądanie, Do zobaczenia wkrótce!</desc>
-    </programme>   	
+ <programme start="20241231205500 +0000" stop="20241231235500 +0000" channel="program_1">
+        <title>Sylwester z T1</title>
+        <desc>2024 rok, dobiega końca. Z tej okazji nadamy po raz ostatni program w T1 i Super Radio, czyli Sylwester z T1. Puścimy wybrane oraz najlepsze odcinki Piosenek w Programie 1, które pojawiły się w 2024! Zobaczymy co 2025 rok nam da i co nam zrobi.</desc>
+    </programme>   
 	
 
- <programme start="20241220000000 +0000" stop="20241231235900 +0000" channel="super_radio">
+ <programme start="20241220000000 +0000" stop="20241231205500 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
     </programme>
 
 	
+ <programme start="20241231205500 +0000" stop="20241231235500 +0000" channel="super_radio">
+        <title>Sylwester z T1 [AUDIO]</title>
+        <desc>2024 rok, dobiega końca. Z tej okazji nadamy po raz ostatni program w T1 i Super Radio, czyli Sylwester z T1. Puścimy wybrane oraz najlepsze odcinki Piosenek w Programie 1, które pojawiły się w 2024! Zobaczymy co 2025 rok nam da i co nam zrobi.</desc>
+    </programme>   
+
+ <programme start="20241231235500 +0000" stop="20250114225900 +0000" channel="super_radio">
+        <title>Muzyka NON-STOP!</title>
+        <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
+    </programme>	
 </tv>
 
