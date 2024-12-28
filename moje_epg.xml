@@ -27,7 +27,11 @@
         <title>Sylwester z T1</title>
         <desc>2024 rok, dobiega końca. Z tej okazji nadamy po raz ostatni program w T1 i Super Radio, czyli Sylwester z T1. Puścimy wybrane oraz najlepsze odcinki Piosenek w Programie 1, które pojawiły się w 2024! Zobaczymy co 2025 rok nam da i co nam zrobi.</desc>
     </programme>   
-	
+
+ <programme start="20241231235500 +0000" stop="20250101070000 +0000" channel="program_1">
+        <title>Zakończenie programu</title>
+        <desc>Dziękujemy za oglądanie! Do zobaczenia wkrótce</desc>
+    </programme>   	
 
  <programme start="20241220000000 +0000" stop="20241231205500 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
