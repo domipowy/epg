@@ -11,40 +11,42 @@
         <display-name>Super Radio</display-name>
     </channel>
 
-
-	
-    <programme start="20241231185000 +0000" stop="20241231190000 +0000" channel="program_1">
+  <programme start="20250114185000 +0000" stop="20250114190000 +0000" channel="program_1">
         <title>Informacje w Jedynce</title>
         <desc>Program informacyjny, gdzie są podawane najważniejsze informacje z kraju i świata.</desc>
     </programme>   
-
-  <programme start="20241231190000 +0000" stop="20241231205500 +0000" channel="program_1">
-        <title>Sala samobójców</title>
-        <desc>Dominik to zwyczajny chłopak. Ma wielu znajomych, najładniejszą dziewczynę w szkole, bogatych rodziców, pieniądze na ciuchy, gadżety, imprezy i pewnego dnia jeden pocałunek zmienia wszystko. "Ona" zaczepia go w sieci. Jest intrygująca, niebezpieczna, przebiegła. Wprowadza go do "Sali samobójców", miejsca, z którego nie ma ucieczki. Dominik, w pułapce własnych uczuć, wplątany w śmiertelną intrygę, straci to, co w życiu najcenniejsze.</desc>
-    </programme>   
-
- <programme start="20241231205500 +0000" stop="20241231235500 +0000" channel="program_1">
-        <title>Sylwester z T1</title>
-        <desc>2024 rok, dobiega końca. Z tej okazji nadamy po raz ostatni program w T1 i Super Radio, czyli Sylwester z T1. Puścimy wybrane oraz najlepsze odcinki Piosenek w Programie 1, które pojawiły się w 2024! Zobaczymy co 2025 rok nam da i co nam zrobi.</desc>
-    </programme>   
-
- <programme start="20241231235500 +0000" stop="20250101070000 +0000" channel="program_1">
-        <title>Zakończenie programu</title>
-        <desc>Dziękujemy za oglądanie! Do zobaczenia wkrótce</desc>
-    </programme>   	
-
- <programme start="20241220000000 +0000" stop="20241231205500 +0000" channel="super_radio">
-        <title>Muzyka NON-STOP!</title>
-        <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
-    </programme>
-
 	
- <programme start="20241231205500 +0000" stop="20241231235500 +0000" channel="super_radio">
-        <title>Sylwester z T1 [AUDIO]</title>
-        <desc>2024 rok, dobiega końca. Z tej okazji nadamy po raz ostatni program w T1 i Super Radio, czyli Sylwester z T1. Puścimy wybrane oraz najlepsze odcinki Piosenek w Programie 1, które pojawiły się w 2024! Zobaczymy co 2025 rok nam da i co nam zrobi.</desc>
+<programme start="20250114190000 +0000" stop="20250114200000 +0000" channel="program_1">
+        <title>Piosenki w Programie 1</title>
+        <desc>W naszym programie posłuchacie najlepsze piosenki z lat 80 - 90 - 00 i 10. Program opiera się głównie na piosenkach Pop ale i również na innych gatunkach muzycznych..</desc>
     </programme>   
 
- <programme start="20241231235500 +0000" stop="20250114225900 +0000" channel="super_radio">
+ <programme start="20250114200000 +0000" stop="20250114205000 +0000" channel="program_1">
+        <title>Ogniem i mieczem - Odcinek 1</title>
+        <desc>Premierę serialu "Ogniem i mieczem" poprzedziło znakomite przyjęcie kinowej wersji dzieła Jerzego Hoffmana. Obejrzało je ponad siedem milionów widzów, nie wspominając już o nagrodach i wyróżnieniach dla twórców filmu. Geneza powstania oraz wieloletnie kłopoty związane z realizacją "Ogniem i mieczem" obrosły legendą. Film Hoffmana przeszedł też do historii jako w pełni udana superprodukcja, która sprostała ogromnym oczekiwaniom zarówno widzów, jak i krytyki. Reżyserowi udało się pozyskać nie tylko rekordowe - jak na polską kinematografię - środki na realizację, lecz także znakomitych aktorów, których kreacje zapadają głęboko w pamięć. Krzysztof Kowalewski, Zbigniew Zamachowski, Wiktor Zborowski z powodzeniem nadali indywidualny rys postaciom Zagłoby, Wołodyjowskiego i Podbipięty, nie wchodząc przy tym w kolizję z duchem powieściowego pierwowzoru. Dla Michała Żebrowskiego rola Skrzetuskiego stała się trampoliną do kariery, której widomym znakiem były tytułowe kreacje w "Panu Tadeuszu" Andrzeja Wajdy i "Wiedźminie" wg prozy Andrzeja Sapkowskiego. Prawdziwym objawieniem był jednak Aleksander Domogarow, rosyjski aktor, odtwarzający postać Bohuna. W opinii wielu to właśnie on stworzył najbardziej przejmującą kreację filmu. Na uwagę zasługuje też niezwykła skrupulatność w odtworzeniu realiów epoki, plastyczne, "epickie" zdjęcia oraz przekonująco zainscenizowane sceny batalistyczne. Telewizyjna, 4 - odcinkowa wersja epopei Hoffmana łącznie trwa około dwudziestu minut dłużej od filmu kinowego. Różnice między obiema wersjami są w zasadzie niedostrzegalne. Ze względu na specyfikę serialu materiał został nieco inaczej zmontowany, a fabuła zyskała trochę inny rytm. Jan Skrzetuski, poseł księcia Jeremiego Wiśniowieckiego, wracając z Krymu ratuje życie pułkownikowi kozackiemu Bohdanowi Chmielnickiemu. Podczas postoju w karczmie, zaatakowany przez podstarostę Czaplińskiego, daje popis szlacheckiej krzepy, wyrzucając napastnika na bruk. Czyn ten wzbudza uznanie u dwu innych gości: Onufrego Zagłoby i Longina Podbipięty. Obaj rycerze szybko zaprzyjaźniają się ze Skrzetuskim i wspólnie ruszają w dalszą drogę. Wkrótce natrafiają na rozbitą kolaskę i wybawiają z opresji kniahinię Kurcewiczową oraz piękną bratanicę jej nieboszczyka męża, Helenę. Jan zakochuje się w dziewczynie od pierwszego wejrzenia. Helena odwzajemnia afekt, lecz na drodze do jego rozwoju staje poważny problem. Młoda Kurcewiczówna została bowiem przyrzeczona innemu - podpułkownikowi kozackiemu Jurko Bohunowi. Skrzetuskiemu udaje się nakłonić kniahinię do zmiany decyzji. Wkrótce książę Wiśniowiecki wysyła Jana z nową misją na Sicz. Skrzetuski dowiaduje się o planowanym przez Chmielnickiego powstaniu i wysyła swego totumfackiego Rzędziana do kniahini, by ostrzegł ją przed niebezpieczeństwem. Sam niebawem dostaje się do niewoli tatarskiej. Serial historyczno - przygodowy, 49 min, Polska 2000 Scenariusz i reżyseria: Jerzy Hoffman Zdjęcia: Grzegorz Kędzierski Muzyka: Krzesimir Dębski Aktorzy: Izabella Scorupco, Michał Żebrowski, Aleksander Domogarow, Krzysztof Kowalewski, Bohdan Stupka, Zbigniew Zamachowski, Wiktor Zborowski, Daniel Olbrychski, Ewa Wiśniewska, Andrzej Seweryn, Wojciech Malajkat, Rusłana Pysanka, Marek Kondrat, Gustaw Holoubek, Andrzej Kopiczyński, Maciej Kozłowski, Adam Ferency, Gustaw Lutkiewicz i inni</desc>
+    </programme>   
+
+<programme start="20250114205000 +0000" stop="20250114214000 +0000" channel="program_1">
+        <title>Ogniem i mieczem - Odcinek 2</title>
+        <desc>Ranny Skrzetuski, uwolniony dzięki listowi żelaznemu, rusza na poszukiwanie Jeremiego Wiśniowieckiego i wojsk polskich. Tymczasem Bohun przechwytuje pismo, które przewoził Rzędzian i odkrywa, że kniahini złamała dane mu słowo. Żądny zemsty przybywa do Rozłogów, morduje Kurcewiczową i jej synów. Na szczęście, Helenie udaje się uciec dzięki Zagłobie. Książę Wiśniowiecki uroczyście zobowiązuje się stłumić powstanie na Ukrainie. Skrzetuski, pełen niepokoju o ukochaną, przybywa do Rozłogów, lecz jego oczom ukazują się jedynie zgliszcza. Pewne pocieszenie stanowi fakt, że spotyka wreszcie wojska Wiśniowieckiego, a wraz z nimi swoich przyjaciół.</desc>
+    </programme> 	
+
+ <programme start="20250114214000 +0000" stop="20250114222500 +0000" channel="program_1">
+        <title>Szpital - Odcinek 69</title>
+        <desc>Dorota Wronik przywozi do szpitala swoją matkę, która twierdzi, że po kłótni z córką straciła nagle przytomność. Pacjentką zajmuje się dr Dominika. Zofia Olawska nie jest zadowolona, że bada ją młoda lekarka. Tymczasem pogotowie przywozi do szpitala 67-letniego Józefa Adamskiego, który został potrącony w parku przez rowerzystę. Mężczyzna podczas upadku złamał nogę. Pomogła mu przypadkowa dziewczyna, która wezwała pogotowie.</desc>
+    </programme>   
+	
+ <programme start="20250114222500 +0000" stop="20250114223500 +0000" channel="program_1">
+        <title>Informacje w Jedynce</title>
+        <desc>Program informacyjny, gdzie są podawane najważniejsze informacje z kraju i świata.</desc>
+    </programme>  
+	
+<programme start="20250114223500 +0000" stop="20250115050000 +0000" channel="program_1">
+        <title>Zakończenie programu</title>
+        <desc>Dziękujemy za oglądanie! Do zobaczenia wkrótce.</desc>
+    </programme> 
+	
+ <programme start="20250105000000 +0000" stop="20250131225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
     </programme>	
