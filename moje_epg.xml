@@ -17,17 +17,20 @@
 <programme start="20250311222500 +0000" stop="20250311232500 +0000" channel="program_1">
         <title>Piosenki w Programie 1</title>
         <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
+	<category lang="pl">Muzyka</category>
     </programme>	
 
 <programme start="20250311222500 +0000" stop="20250312010500 +0000" channel="plus">
         <title>Diuna</title>
         <desc>Film "Diuna" opowiada historię niezwykłej, pełnej przygód i emocji podróży Paula Atreidesa. Temu genialnemu i utalentowanemu młodemu człowiekowi pisane jest wspaniałe przeznaczenie, którego on sam nie jest w stanie pojąć. Najpierw jednak Paul musi się udać na najbardziej niebezpieczną planetę we wszechświecie, żeby ratować rodzinę i rodaków. Na planecie wybucha zażarty konflikt o dostęp do niewystępującej nigdzie indziej, najcenniejszej ze znanych substancji. Wyzwala ona w ludziach ich największy potencjał. Ale wojnę przetrwają tylko ci, którzy pokonają swój strach.</desc>
+	<category lang="pl">Film science fiction</category>
 	<icon src="https://sm.ign.com/ign_pl/screenshot/default/film-diuna-2020-dune_qwq7.jpg"/>
     </programme>		
 	
  <programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
+	<category lang="pl">Radio</category>
     </programme>	
 </tv>
 
