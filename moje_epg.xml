@@ -19,7 +19,7 @@
         <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
 	<category lang="pl">Muzyka</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="xmltv_ns">S01E12</episode-num>
+	<episode-num system="xmltv_ns">Odcinek 12</episode-num>
     </programme>	
 
 <programme start="20250311232500 +0000" stop="20250312002500 +0000" channel="program_1">
@@ -27,7 +27,7 @@
         <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
 	<category lang="pl">Muzyka</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="xmltv_ns">S01E10</episode-num>
+	<episode-num system="xmltv_ns">Odcinek 10</episode-num>
     </programme>		
 
  <programme start="20250312002500 +0000" stop="20250312060000 +0000" channel="program_1">
