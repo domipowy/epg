@@ -11,6 +11,15 @@
         <display-name>Super Radio</display-name>
     </channel>
 
+<programme start="20250311222500 +0000" stop="20250311232500 +0000" channel="program_1">
+        <title>Piosenki w Programie 1</title>
+        <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
+    </programme>	
+
+<programme start="20250311222500 +0000" stop="20250311010500 +0000" channel="plus">
+        <title>Diuna</title>
+        <desc>Film "Diuna" opowiada historię niezwykłej, pełnej przygód i emocji podróży Paula Atreidesa. Temu genialnemu i utalentowanemu młodemu człowiekowi pisane jest wspaniałe przeznaczenie, którego on sam nie jest w stanie pojąć. Najpierw jednak Paul musi się udać na najbardziej niebezpieczną planetę we wszechświecie, żeby ratować rodzinę i rodaków. Na planecie wybucha zażarty konflikt o dostęp do niewystępującej nigdzie indziej, najcenniejszej ze znanych substancji. Wyzwala ona w ludziach ich największy potencjał. Ale wojnę przetrwają tylko ci, którzy pokonają swój strach.</desc>
+    </programme>		
 	
  <programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
