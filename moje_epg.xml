@@ -18,12 +18,14 @@
         <title>Piosenki w Programie 1 - Odcinek 12</title>
         <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
 	<category lang="pl">Muzyka</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
     </programme>	
 
 <programme start="20250311232500 +0000" stop="20250312002500 +0000" channel="program_1">
         <title>Piosenki w Programie 1 - Odcinek 10</title>
         <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
 	<category lang="pl">Muzyka</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
     </programme>		
 
  <programme start="20250312002500 +0000" stop="20250312060000 +0000" channel="program_1">
