@@ -25,6 +25,11 @@
         <desc>Program w którym posłuchasz najlepsze piosenki w T1</desc>
 	<category lang="pl">Muzyka</category>
     </programme>		
+
+ <programme start="20250312002500 +0000" stop="20250312060000 +0000" channel="program_1">
+        <title>Zakończenie programu</title>
+        <desc> </desc>
+    </programme>
 	
 <programme start="20250311222500 +0000" stop="20250312010500 +0000" channel="plus">
         <title>Diuna</title>
@@ -33,7 +38,12 @@
 	<icon src="https://sm.ign.com/ign_pl/screenshot/default/film-diuna-2020-dune_qwq7.jpg"/>
     </programme>		
 	
- <programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
+ <programme start="20250312010500 +0000" stop="20250312060000 +0000" channel="plus">
+        <title>Zakończenie programu</title>
+        <desc> </desc>
+    </programme>	
+	
+<programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
 	<category lang="pl">Radio</category>
