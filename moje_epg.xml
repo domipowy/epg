@@ -13,14 +13,6 @@
         <display-name>Super Radio</display-name>
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
-
-<programme start="20250312110000 +0000" stop="20250312190000 +0000" channel="program_1">
-        <title>XYZ</title>
-        <desc>XYZ</desc>
-	<category lang="pl">XYZ</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-    </programme>	
-
 	
 <programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
