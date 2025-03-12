@@ -14,7 +14,7 @@
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
 
-<programme start="20250312110000 +0000" stop="20250312130000 +0000" channel="program_1">
+<programme start="20250312110000 +0000" stop="20250312190000 +0000" channel="program_1">
         <title>XYZ</title>
         <desc>XYZ</desc>
 	<category lang="pl">XYZ</category>
