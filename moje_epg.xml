@@ -1,6 +1,6 @@
 <tv>
     <channel id="program_1">
-        <display-name>T1</display-name>
+        <display-name>Program 1</display-name>
 	<icon src="https://static.wixstatic.com/media/f287cb_54fe2c0cfa9144ff9ea7ca266099332c~mv2.png"/>
     </channel>
 	  
