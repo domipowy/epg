@@ -50,5 +50,13 @@
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
 	<category lang="pl">Radio</category>
     </programme>	
+
+<programme start="20250311232500 +0000" stop="20250312002500 +0000" channel="xyz">
+        <title>XYZ</title>
+        <desc>XYZ</desc>
+	<category lang="pl">XYZ</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+    </programme>	
+
 </tv>
 
