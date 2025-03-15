@@ -65,6 +65,60 @@
         <title>Przerwa w nadawaniu</title>
         <desc>Do zobaczenia o 20!</desc>
     </programme>
+
+<programme start="20250315190000 +0000" stop="20250315200000 +0000" channel="program_1">
+        <title>Piosenki w Programie 1</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Muzyka</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">S1E12</episode-num>
+    </programme>	
+
+<programme start="20250315190000 +0000" stop="20250315200000 +0000" channel="program_1">
+        <title>Piosenki w Programie 1</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Muzyka</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">S1E12</episode-num>
+    </programme>	
+
+<programme start="20250315200000 +0000" stop="20250315220000 +0000" channel="program_1">
+        <title>Tyler Rake: Ocalenie</title>
+        <desc>Tyler Rake (Chris Hemsworth) jest nieustraszonym najemnikiem, który nie ma już nic do stracenia. Jednak gdy przyjmuje zlecenie odbicia z rąk porywaczy syna międzynarodowego barona narkotykowego, nie zdaje sobie sprawy, jak ogromnego ryzyka się podejmuje. Realizacja tej śmiertelnie niebezpiecznej misji w mrocznym półświatku handlarzy bronią i narkotykami graniczy z niemożliwością i na zawsze odmienia życia Rake'a i porwanego chłopca.</desc>
+	<category lang="pl">Film akcji</category>
+	<icon src="https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVqcLQpf6mxvyIfcaadFQhph_iN1tmNUjmHziE4hXp6HsNL0ViweqrNA3JUqdX_ukwGIWZzli2G4cry-1PYBFRk22_a8C2LG86Cj.jpg?r=1ef"/>
+    </programme>	
+
+<programme start="20250315220000 +0000" stop="20250315232500 +0000" channel="program_1">
+        <title>Zróbmy sobie wnuka</title>
+        <desc>Bohaterem filmu jest Maniek Kosela - chłop prosty, ale wyjątkowo zaradny. Ziemia, na której gospodaruje, cenniejsza jest niźli złoto. Nic więc dziwnego, że wpada w oko pobliskim biznesmenom, inwestorom z zagranicy i ... gangsterom. Ale Koselę martwi co innego. Sen z powiek spędza mu los dwójki dzieci: Zosi i Janka. Dorosłe toto, inteligentne, urody też im nie brakuje - a żenić się jakoś nie chcą! Za punkt honoru Kosela stawia więc sobie doprowadzenie dzieci do ołtarza. I to niekoniecznie z ich własnej woli...</desc>
+	<category lang="pl">Komedia</category>
+	<icon src="https://fwcdn.pl/fph/66/74/36674/678697_4.1.jpg"/>
+    </programme>	
+
+<programme start="20250315232500 +0000" stop="20250315234000 +0000" channel="program_1">
+        <title>Strefa wolnych myśli</title>
+        <desc>Liroy to zdecydowanie jedna z bardziej wyrazistych i kontrowersyjnych postaci w polskiej branży  muzycznej. Zobacz, co myśli o tym światku.</desc>
+	<icon src="https://wptv.wpcdn.pl/1932355-01prevb.jpg"/>
+    </programme>
+
+<programme start="20250315234000 +0000" stop="20250315235500 +0000" channel="program_1">
+        <title>Strefa wolnych myśli</title>
+        <desc>Ten człowiek nie boi się mówić przed kamerą, co naprawdę myśli.</desc>
+	<icon src="https://wptv.wpcdn.pl/1932355-01prevb.jpg"/>
+    </programme>
+
+<programme start="20250315235500 +0000" stop="20250316003500 +0000" channel="program_1">
+        <title>Ukraina. Pierwsza doba wojny</title>
+        <desc>Co Ukraińcom przyniosła rosyjska okupacja.</desc>
+	<icon src="https://i.ytimg.com/vi/Fs8d3xmg_oA/maxresdefault.jpg"/>
+	<category lang="pl">Program dokumentalny</category>
+    </programme>	
+
+<programme start="20250316003500 +0000" stop="20250316050000 +0000" channel="program_1">
+        <title>Zakończenie programu</title>
+        <desc>Dziękujemy za dzisiejsze oglądanie. Do zobaczenia wkrótce</desc>
+    </programme>
 	
 <programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
