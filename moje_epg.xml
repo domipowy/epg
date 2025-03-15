@@ -13,19 +13,60 @@
         <display-name>Super Radio</display-name>
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
+
+<programme start="20250315090000 +0000" stop="20250315100000 +0000" channel="program_1">
+        <title>Piosenki w Programie 1 - Odcinek 6</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Muzyka</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+    </programme>	
+
+<programme start="20250315100000 +0000" stop="20250315102500 +0000" channel="program_1">
+        <title>Szczenięce lata clifforda</title>
+        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Animacja / Familijny</category>
+	<icon src="https://resizing.flixster.com/OGzugqzL2YWh_YhuDfBHmusUkWU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p186068_i_h9_aa.jpg"/>
+    </programme>	
+
+<programme start="20250315102500 +0000" stop="20250315104500 +0000" channel="program_1">
+        <title>Szczenięce lata clifforda</title>
+        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Animacja / Familijny</category>
+	<icon src="https://resizing.flixster.com/OGzugqzL2YWh_YhuDfBHmusUkWU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p186068_i_h9_aa.jpg"/>
+    </programme>
+
+<programme start="20250315104500 +0000" stop="20250315112500 +0000" channel="program_1">
+        <title>Szpital - Odcinek 77</title>
+        <desc>Karetka przywozi do szpitala 35-letniego Tomasza Lisa, który nagle wpadł w szał i stał się agresywny. Policja nie była w stanie poradzić sobie z szalejącym w sklepie mężczyzną i zadzwoniła po pogotowie. Pacjentem zajmuje się dr Michał, który podejrzewa zapalenie opon mózgowych. Tymczasem na SOR trafia z silnymi dusznościami 40-letni Krzysztof Stańczyk. Pacjenta bada dr Anna, która podejrzewa problemy z sercem. Mężczyzna odwiedzał właśnie swoją teściową, która dwa dni temu miała wypadek.</desc>
+	<category lang="pl">Serial fabularno-dokumentalny</category>
+	<icon src=":https://r-scale-19.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/0e55666a4ad822e0e34299df3591d979/fe1103e0-506d-11e3-bc2b-0025b511229e.jpg?srcy=19&srcx=57&srch=1120&srcw=1989&type=1&srcmode=0&dsth=168&dstw=300&quality=85"/>
+    </programme>
+	
+<programme start="20250315112500 +0000" stop="20250315120500 +0000" channel="program_1">
+        <title>Szpital - Odcinek 78</title>
+        <desc>Doktor Robert zajmuje się 40-letnim Andrzejem Olczakiem, który podczas snu nagle przestał oddychać i dostał gwałtownego ataku duszności. Lekarz podejrzewa, że mężczyzna cierpi na zespół bezdechu sennego. Tymczasem przerażona 14-letnia Kasia Jaworska przyprowadza na oddział swojego młodszego brata, którego bardzo boli brzuch. Chłopiec co chwilę wymiotuje i ma biegunkę. Rodzice dzieci wyjechali służbowo i zostawili Krzysia pod opieką siostry. Pacjenta bada dr Eryk.</desc>
+	<category lang="pl">Serial fabularno-dokumentalny</category>
+	<icon src=":https://r-scale-19.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/0e55666a4ad822e0e34299df3591d979/fe1103e0-506d-11e3-bc2b-0025b511229e.jpg?srcy=19&srcx=57&srch=1120&srcw=1989&type=1&srcmode=0&dsth=168&dstw=300&quality=85"/>
+    </programme>
+
+<programme start="20250315120500 +0000" stop="20250315124000 +0000" channel="program_1">
+        <title>Dlaczego zwykli Niemcy bali się wojny z Polską?</title>
+        <desc>Materiał został zrealizowany dzięki wsparciu Patronów-Mecenasów: Sebastian Nastarowicz, Marcin Smajek, Marcin Flisiuk, Łukasz Tetiorka, Tymoteusz Jocz, Piotr Borowiec, Patryk Brzeziński, Łukasz Koszewski, Maciej Łabuz, Adrian Kraska, Paweł Ropiak, Robert Ćwikliński, Tiharr</desc>
+	<category lang="pl">Program dokumentalny</category>
+	<icon src=":https://i.ytimg.com/vi/LIP3NlQAIOw/maxresdefault.jpg"/>
+    </programme>
+
+<programme start="20250315112500 +0000" stop="20250315130500 +0000" channel="program_1">
+        <title>Przerwa w nadawaniu</title>
+        <desc>Do zobaczenia o 20!</desc>
+    </programme>
 	
 <programme start="20250220000000 +0000" stop="20250331225900 +0000" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
 	<category lang="pl">Radio</category>
     </programme>	
-
-<programme start="20250311232500 +0000" stop="20250312002500 +0000" channel="xyz">
-        <title>XYZ</title>
-        <desc>XYZ</desc>
-	<category lang="pl">XYZ</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-    </programme>	
+	
 
 </tv>
 
