@@ -39,14 +39,14 @@
         <title>Szpital - Odcinek 77</title>
         <desc>Karetka przywozi do szpitala 35-letniego Tomasza Lisa, który nagle wpadł w szał i stał się agresywny. Policja nie była w stanie poradzić sobie z szalejącym w sklepie mężczyzną i zadzwoniła po pogotowie. Pacjentem zajmuje się dr Michał, który podejrzewa zapalenie opon mózgowych. Tymczasem na SOR trafia z silnymi dusznościami 40-letni Krzysztof Stańczyk. Pacjenta bada dr Anna, która podejrzewa problemy z sercem. Mężczyzna odwiedzał właśnie swoją teściową, która dwa dni temu miała wypadek.</desc>
 	<category lang="pl">Serial fabularno-dokumentalny</category>
-	<icon src=":https://r-scale-19.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/0e55666a4ad822e0e34299df3591d979/fe1103e0-506d-11e3-bc2b-0025b511229e.jpg?srcy=19&srcx=57&srch=1120&srcw=1989&type=1&srcmode=0&dsth=168&dstw=300&quality=85"/>
+	<icon src=":https://d-tv.ppstatic.pl/images/tv-tv/28/46/eps41174_831884637_mini.jpg"/>
     </programme>
 	
 <programme start="20250315112500 +0000" stop="20250315120500 +0000" channel="program_1">
         <title>Szpital - Odcinek 78</title>
         <desc>Doktor Robert zajmuje się 40-letnim Andrzejem Olczakiem, który podczas snu nagle przestał oddychać i dostał gwałtownego ataku duszności. Lekarz podejrzewa, że mężczyzna cierpi na zespół bezdechu sennego. Tymczasem przerażona 14-letnia Kasia Jaworska przyprowadza na oddział swojego młodszego brata, którego bardzo boli brzuch. Chłopiec co chwilę wymiotuje i ma biegunkę. Rodzice dzieci wyjechali służbowo i zostawili Krzysia pod opieką siostry. Pacjenta bada dr Eryk.</desc>
 	<category lang="pl">Serial fabularno-dokumentalny</category>
-	<icon src=":https://r-scale-19.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/0e55666a4ad822e0e34299df3591d979/fe1103e0-506d-11e3-bc2b-0025b511229e.jpg?srcy=19&srcx=57&srch=1120&srcw=1989&type=1&srcmode=0&dsth=168&dstw=300&quality=85"/>
+	<icon src=":https://d-tv.ppstatic.pl/images/tv-tv/28/46/eps41174_831884637_mini.jpg"/>
     </programme>
 
 <programme start="20250315120500 +0000" stop="20250315124000 +0000" channel="program_1">
@@ -56,7 +56,7 @@
 	<icon src=":https://i.ytimg.com/vi/LIP3NlQAIOw/maxresdefault.jpg"/>
     </programme>
 
-<programme start="20250315112500 +0000" stop="20250315130500 +0000" channel="program_1">
+<programme start="20250315124000 +0000" stop="20250315190000 +0000" channel="program_1">
         <title>Przerwa w nadawaniu</title>
         <desc>Do zobaczenia o 20!</desc>
     </programme>
