@@ -126,6 +126,13 @@
 	<category lang="pl">Radio</category>
     </programme>	
 	
-
+<programme start="20250315090000 +0000" stop="20250315100000 +0000" channel="xyz">
+        <title>XYZ</title>
+        <desc>XYZ</desc>
+	<category lang="pl">XYZ</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">S1E01</episode-num>
+    </programme>
+	
 </tv>
 
