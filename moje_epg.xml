@@ -14,7 +14,7 @@
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
 
-<programme start="20250406194800 +0200" stop="20250406195000 +0200" channel="program_1">
+<programme start="20250406194600 +0200" stop="20250406195000 +0200" channel="program_1">
         <title>Zagadki</title>
         <desc></desc>
 	<category lang="pl">Program edukacyjny</category>
