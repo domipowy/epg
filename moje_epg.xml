@@ -14,49 +14,6 @@
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
 
-<programme start="20250406194500 +0200" stop="20250406195000 +0200" channel="program_1">
-        <title>Zagadki</title>
-        <desc></desc>
-	<category lang="pl">Program edukacyjny</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_7693354ff6824d00ac45b8f1b00717d7~mv2.jpg"/>
-	<episode-num system="onscreen">E02</episode-num>
-    </programme>
-
-<programme start="20250406195000 +0200" stop="20250406200000 +0200" channel="program_1">
-        <title>Wpadki</title>
-        <desc>Program przedstawia wszystkie zabawne momenty oraz wpadki które były nadawane we wszystkich stacjach Super Grupy</desc>
-	<category lang="pl">Program rozrywkowy</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_1774d164a1c8437987f2f44c3ad6dc57~mv2.jpg"/>
-	<episode-num system="onscreen">E01</episode-num>
-    </programme>	
-
-<programme start="20250406200000 +0200" stop="20250406210000 +0200" channel="program_1">
-        <title>Piosenki w Programie 1</title>
-        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-	<category lang="pl">Program muzyczny</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E13</episode-num>
-    </programme>	
-
-<programme start="20250406210000 +0200" stop="20250406222500 +0200" channel="program_1">
-        <title>Idiokracja</title>
-        <desc>Przeciętniak nad przeciętniaki, szeregowy Joe Bowers i prostytutka Rita stają się szczurami doświadczalnymi eksperymentu wojskowego wskutek czego zostają poddani hibernacji. Z założenia hibernacja miała trwać rok, jednak wskutek wielu czynników Joe i Rita zasypiają na 500 lat. Budzą się po wielkiej lawinie śmieci w 2505 roku i odkrywają że są najmądrzejszymi istotami na Ziemi.</desc>
-	<category lang="pl">Komedia/Sci-Fi</category>
-	<icon src="https://d-tv.ppstatic.pl/images/tv-tv/ed/4a/prg1489084_829973109_original.jpg"/>
-    </programme>
-
-<programme start="20250406222500 +0200" stop="20250407002000 +0200" channel="program_1">
-        <title>Sala samobójców</title>
-        <desc>Dominik to zwyczajny chłopak. Ma wielu znajomych, najładniejszą dziewczynę w szkole, bogatych rodziców, pieniądze na ciuchy, gadżety, imprezy i pewnego dnia jeden pocałunek zmienia wszystko. "Ona" zaczepia go w sieci. Jest intrygująca, niebezpieczna, przebiegła. Wprowadza go do "Sali samobójców", miejsca, z którego nie ma ucieczki. Dominik, w pułapce własnych uczuć, wplątany w śmiertelną intrygę, straci to, co w życiu najcenniejsze.</desc>
-	<category lang="pl">Thriller/Romans</category>
-	<icon src="https://static.polityka.pl/_resource/res/path/ea/b4/eab48e81-767a-4cd7-8e88-61bf1a2e467e"/>
-    </programme>
-
-<programme start="20250407002000 +0200" stop="20250407060000 +0200" channel="program_1">
-        <title>Zakończenie programu</title>
-        <desc>Do zobaczenia wkrótce!</desc>
-	<icon src="https://ocdn.eu/ptv-imported-images-transforms/1/eHekq9ha3BhNDQxOTY3NC5qcGeRlQLNASwAwsM"/>
-    </programme>	
 	
 <programme start="20250320000000 +0200" stop="20250431235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
