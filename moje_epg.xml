@@ -30,7 +30,7 @@
 	<episode-num system="onscreen">S1E03</episode-num>
     </programme>
 
-<programme start="20250410105500 +0200" stop="20250410111500 +0200" channel="program_1">
+<programme start="20250410105500 +0200" stop="20250410112000 +0200" channel="program_1">
         <title>Szczenięce lata clifforda</title>
         <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
 	<category lang="pl">Serial animowany</category>
@@ -38,7 +38,7 @@
 	<episode-num system="onscreen">S1E04</episode-num>
     </programme>
 
-<programme start="20250410111500 +0200" stop="20250410114000 +0200" channel="program_1">
+<programme start="20250410112000 +0200" stop="20250410114500 +0200" channel="program_1">
         <title>Szczenięce lata clifforda</title>
         <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
 	<category lang="pl">Serial animowany</category>
@@ -46,7 +46,7 @@
 	<episode-num system="onscreen">S1E05</episode-num>
     </programme>
 
-<programme start="20250410114000 +0200" stop="20250410115000 +0200" channel="program_1">
+<programme start="20250410114500 +0200" stop="20250410115500 +0200" channel="program_1">
         <title>Wpadki</title>
         <desc>Program przedstawia wszystkie zabawne momenty oraz wpadki które były nadawane we wszystkich stacjach Super Grupy</desc>
 	<category lang="pl">Program rozrywkowy</category>
@@ -54,7 +54,7 @@
 	<episode-num system="onscreen">E1</episode-num>
     </programme>
 
-<programme start="20250410115000 +0200" stop="20250410123000 +0200" channel="program_1">
+<programme start="20250410115500 +0200" stop="20250410123500 +0200" channel="program_1">
         <title>Szpital</title>
         <desc>Szef dużej firmy budowlanej przywozi do szpitala swojego księgowego - Romana Kareckiego, którego bardzo boli brzuch. Mężczyzna wypił za dużo alkoholu na spotkaniu, na którym wspólnie z szefem świętował podpisanie nowego kontraktu. Pacjentem zajmuje się dr Robert. Tymczasem karetka przywozi na oddział 8-letniego Pawła Norczyka, który został potrącony przez samochód na przejściu dla pieszych. Chłopca przyjmuje dr Dominika.</desc>
 	<category lang="pl">Serial/Serial fabularno-dokumentalny</category>
@@ -62,7 +62,7 @@
 	<episode-num system="onscreen">E82</episode-num>
     </programme>
 
-<programme start="20250410123000 +0200" stop="20250410130000 +0200" channel="program_1">
+<programme start="20250410123500 +0200" stop="20250410130000 +0200" channel="program_1">
         <title>Zakończenie programu</title>
         <desc>Do zobaczenia wkrótce!</desc>
     </programme>
