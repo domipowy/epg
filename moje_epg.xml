@@ -30,10 +30,11 @@
     </programme>
 
 <programme start="20250425230000 +0200" stop="20250425231000 +0200" channel="program_1">
-        <title>Parlament po roku w monarze</title>
-        <desc>Dziś od 20:45 do 23:00 zapraszamy na nasz parlament!</desc>
-	<category lang="pl">Polityka</category>
+        <title>Wpadki</title>
+        <desc>Program przedstawia wszystkie zabawne momenty oraz wpadki które były nadawane we wszystkich stacjach Super Grupy</desc>
+	<category lang="pl">Program rozrywkowy</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_1774d164a1c8437987f2f44c3ad6dc57~mv2.jpg"/>
+	<episode-num system="onscreen">E1</episode-num>
     </programme>
 	
 <programme start="20250425231000 +0200" stop="20250426060000 +0200" channel="program_1">
