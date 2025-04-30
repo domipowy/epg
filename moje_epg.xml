@@ -48,11 +48,12 @@
     </programme>
 	
 <programme start="20250430121500 +0200" stop="20250430130000 +0200" channel="program_1">
-        <title>Ostatni papież?</title>
-        <desc>Według 900-letniej przepowiedni świętego Malachiasza 112 Papież będzie ostatni. Według obliczeń jest nim Franciszek. Eksperci wierzą, że może to wskazywać na koniec papiestwa, upadek Kościoła, a nawet zagładę świata. Co mówią objawienia z Fatimy? Czy zamach na Jana Pawła II miał z tym związek? A może koniec Kościoła potwierdza abdykacja Benedykta XVI i towarzyszący temu cud?</desc>
+        <title>Szpital</title>
+        <desc>45-letni Andrzej Toczyński został skierowany do szpitala przez lekarza rodzinnego z powodu wysokiego poziomu cukru we krwi. Z pacjentem jest żona, która wizytę w szpitalu uważa za pretekst męża do tego, żeby nie wyprowadzać się z domu. Kamila Toczyńska chce odejść od Andrzeja. Ten na złość, nie chce dać jej rozwodu. Pacjenta przyjmuje dr Dominika, która ma z nim same kłopoty. Tymczasem dr Michał bada Karolinę Strużyk, która zgłosiła się do szpitala bardzo odwodniona i osłabiona. Od pewnego czasu dokuczają jej gwałtowne wymioty.</desc>
 	<category lang="pl">Serial paradokumentalny</category>
 	<icon src="https://r-scale-21.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/f26dab9bf6a137c3b6782e562794c2f2/d8a6f1dc-f138-46ca-87e3-69a7d7912978.jpg?srcx=0&srcy=108&srcw=2048&srch=1152&type=1&srcmode=0&quality=85&dstw=630&dsth=354"/>
-    </programme>
+        <episode-num system="onscreen">E85</episode-num>
+</programme>
 
 <programme start="20250430130000 +0200" stop="20250430150000 +0200" channel="program_1">
         <title>Zakończenie programu</title>
