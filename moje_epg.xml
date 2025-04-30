@@ -14,38 +14,47 @@
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
 
-<programme start="20250426100000 +0200" stop="20250426110000 +0200" channel="program_1">
+<programme start="20250430100000 +0200" stop="20250430110000 +0200" channel="program_1">
         <title>Piosenki w Programie 1</title>
         <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
 	<category lang="pl">Program muzyczny</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E13</episode-num>
+	<episode-num system="onscreen">E11</episode-num>
     </programme>
 
-<programme start="20250426110000 +0200" stop="20250426112500 +0200" channel="program_1">
-        <title>Szczenięce lata clifforda</title>
-        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa - malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
-	<category lang="pl">Serial animowany</category>
-	<icon src="https://images.mubicdn.net/images/film/330514/cache-747314-1641048596/image-w1280.jpg?size=800x"/>
-	<episode-num system="onscreen">E06</episode-num>
-    </programme>
-
-<programme start="20250426112500 +0200" stop="20250426115000 +0200" channel="program_1">
+<programme start="20250430110000 +0200" stop="20250430112500 +0200" channel="program_1">
         <title>Szczenięce lata clifforda</title>
         <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa - malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
 	<category lang="pl">Serial animowany</category>
 	<icon src="https://images.mubicdn.net/images/film/330514/cache-747314-1641048596/image-w1280.jpg?size=800x"/>
 	<episode-num system="onscreen">E07</episode-num>
-    </programme>	
-
-<programme start="20250426115000 +0200" stop="20250426131500 +0200" channel="program_1">
-        <title>Ostatni papież?</title>
-        <desc>Według 900-letniej przepowiedni świętego Malachiasza 112 Papież będzie ostatni. Według obliczeń jest nim Franciszek. Eksperci wierzą, że może to wskazywać na koniec papiestwa, upadek Kościoła, a nawet zagładę świata. Co mówią objawienia z Fatimy? Czy zamach na Jana Pawła II miał z tym związek? A może koniec Kościoła potwierdza abdykacja Benedykta XVI i towarzyszący temu cud?</desc>
-	<category lang="pl">Film dokumentalny</category>
-	<icon src="https://www.clonline.org/storage_files/49266/Catholicpressphoto_507841_90pc-copia.webp"/>
     </programme>
 
-<programme start="20250426131500 +0200" stop="20250426150000 +0200" channel="program_1">
+<programme start="20250430112500 +0200" stop="20250430115000 +0200" channel="program_1">
+        <title>Szczenięce lata clifforda</title>
+        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa - malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Serial animowany</category>
+	<icon src="https://images.mubicdn.net/images/film/330514/cache-747314-1641048596/image-w1280.jpg?size=800x"/>
+	<episode-num system="onscreen">E08</episode-num>
+    </programme>	
+
+
+<programme start="20250430115000 +0200" stop="20250430121500 +0200" channel="program_1">
+        <title>Szczenięce lata clifforda</title>
+        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa - malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Serial animowany</category>
+	<icon src="https://images.mubicdn.net/images/film/330514/cache-747314-1641048596/image-w1280.jpg?size=800x"/>
+	<episode-num system="onscreen">E09</episode-num>
+    </programme>
+	
+<programme start="20250430121500 +0200" stop="20250430130000 +0200" channel="program_1">
+        <title>Ostatni papież?</title>
+        <desc>Według 900-letniej przepowiedni świętego Malachiasza 112 Papież będzie ostatni. Według obliczeń jest nim Franciszek. Eksperci wierzą, że może to wskazywać na koniec papiestwa, upadek Kościoła, a nawet zagładę świata. Co mówią objawienia z Fatimy? Czy zamach na Jana Pawła II miał z tym związek? A może koniec Kościoła potwierdza abdykacja Benedykta XVI i towarzyszący temu cud?</desc>
+	<category lang="pl">Serial paradokumentalny</category>
+	<icon src="https://r-scale-21.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/f26dab9bf6a137c3b6782e562794c2f2/d8a6f1dc-f138-46ca-87e3-69a7d7912978.jpg?srcx=0&srcy=108&srcw=2048&srch=1152&type=1&srcmode=0&quality=85&dstw=630&dsth=354"/>
+    </programme>
+
+<programme start="20250430130000 +0200" stop="20250430150000 +0200" channel="program_1">
         <title>Zakończenie programu</title>
         <desc>Do zobaczenia wkrótce!</desc>
     </programme>	
