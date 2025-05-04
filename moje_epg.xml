@@ -19,7 +19,7 @@
         <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
 	<category lang="pl">Program muzyczny</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E12</episode-num>
+	<episode-num system="onscreen">E13</episode-num>
     </programme>
 
 <programme start="20250504210000 +0200" stop="20250504225500 +0200" channel="program_1">
