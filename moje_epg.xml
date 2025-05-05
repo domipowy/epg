@@ -14,42 +14,40 @@
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
 
-<programme start="20250504200000 +0200" stop="20250504210000 +0200" channel="program_1">
+<programme start="20250505090000 +0200" stop="20250505100000 +0200" channel="program_1">
         <title>Piosenki w Programie 1</title>
         <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
 	<category lang="pl">Program muzyczny</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E13</episode-num>
+	<episode-num system="onscreen">E12</episode-num>
     </programme>
 
-<programme start="20250504210000 +0200" stop="20250504225500 +0200" channel="program_1">
-        <title>Sala samobójców</title>
-        <desc>Dominik to zwyczajny chłopak. Ma wielu znajomych, najładniejszą dziewczynę w szkole, bogatych rodziców, pieniądze na ciuchy, gadżety, imprezy i pewnego dnia jeden pocałunek zmienia wszystko. "Ona" zaczepia go w sieci. Jest intrygująca, niebezpieczna, przebiegła. Wprowadza go do "Sali samobójców", miejsca, z którego nie ma ucieczki. Dominik, w pułapce własnych uczuć, wplątany w śmiertelną intrygę, straci to, co w życiu najcenniejsze.</desc>
-	<category lang="pl">Film psychologiczny</category>
-	<icon src="https://mfcinerama.pl/wp-content/uploads/2017/03/maxresdefault.jpg"/>
+<programme start="20250505100000 +0200" stop="20250505102500 +0200" channel="program_1">
+        <title>Szczenięce lata clifforda</title>
+        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Serial animowany</category>
+	<icon src="https://assets.mubicdn.net/images/film/330514/image-w856.jpg?1745499438"/>
+	<episode-num system="onscreen">E11</episode-num>
     </programme>
 
-<programme start="20250504225500 +0200" stop="20250505011000 +0200" channel="program_1">
-        <title>My, dzieci z dworca zoo</title>
-        <desc>Wstrząsająca ekranizacja pamiętników Christiane F. 12-letnia Christiane, dorastająca w blokowiskach Berlina, nie ma żadnych zainteresowań. Wraz z koleżanką trafia do lokalu, gdzie kwitnie handel narkotykami. Tam poznaje niewiele starszego Detlefa, który jest uzależniony od heroiny. Dziewczyna zaczyna od wdychania białego proszku, z czasem sięga po strzykawkę. Coraz głębiej grzęźnie w nałogu, a gdy zaczyna brakować jej pieniędzy, zostaje prostytutką.</desc>
-	<category lang="pl">Dramat obyczajowy</category>
-	<icon src="https://media.teleman.pl/photos/Christiane-F1981.jpeg"/>
+<programme start="20250505102500 +0200" stop="20250505105000 +0200" channel="program_1">
+        <title>Szczenięce lata clifforda</title>
+        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Serial animowany</category>
+	<icon src="https://assets.mubicdn.net/images/film/330514/image-w856.jpg?1745499438"/>
+	<episode-num system="onscreen">E12</episode-num>
     </programme>	
 
 
-<programme start="20250505011000 +0200" stop="20250505012500 +0200" channel="program_1">
-        <title>Strefa Wolnych Myśli</title>
-        <desc>Ola Mątkiewicz rozmawia z Michaelem Schudrichem, który reprezentuje Żydów polskich w kraju i zagranicą.</desc>
-	<icon src="https://i.ytimg.com/vi/kUh9sPvPPRk/maxresdefault.jpg"/>
+<programme start="20250505105000 +0200" stop="20250505110000 +0200" channel="program_1">
+        <title>Wpadki</title>
+        <desc>Program przedstawia wszystkie zabawne momenty oraz wpadki które były nadawane we wszystkich stacjach Super Grupy</desc>
+	<category lang="pl">Program rozrywkowy</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_1774d164a1c8437987f2f44c3ad6dc57~mv2.jpg"/>
+	<episode-num system="onscreen">E01</episode-num>
     </programme>
 	
-<programme start="20250505012500 +0200" stop="20250505014000 +0200" channel="program_1">
-        <title>Strefa Wolnych Myśli</title>
-        <desc>Edyta od 17 lat kibicuje Legii Warszawa. Zobacz, czego kobieta szuka na stadionie i jak odnajduje się w typowo męskim towarzystwie. Czy można tam znaleźć miłość?</desc>
-	<icon src="https://i.ytimg.com/vi/kUh9sPvPPRk/maxresdefault.jpg"/>
-    </programme>
-
-<programme start="20250505014000 +0200" stop="20250505060000 +0200" channel="program_1">
+<programme start="20250505110000 +0200" stop="20250505130000 +0200" channel="program_1">
         <title>Zakończenie programu</title>
         <desc>Do zobaczenia wkrótce!</desc>
     </programme>	
