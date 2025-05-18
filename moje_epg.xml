@@ -8,49 +8,17 @@
         <display-name>Plus</display-name>
 	<icon src="https://static.wixstatic.com/media/f287cb_0226685d607347d5bf83c9de678dc8c1~mv2.png"/>	
     </channel>
+
+	<channel id="informacje_24">
+        <display-name>Informacje 24</display-name>
+	<icon src="https://static.wixstatic.com/media/f287cb_db6059d975b941fb874cd36771462d00~mv2.png"/>	
+    </channel>
 	
 	<channel id="super_radio">
         <display-name>Super Radio</display-name>
 	<icon src="https://static.wixstatic.com/media/f287cb_a011e4f38aa346b6addfbb76423eddd8~mv2.png"/>	
     </channel>
 
-<programme start="20250505090000 +0200" stop="20250505100000 +0200" channel="program_1">
-        <title>Piosenki w Programie 1</title>
-        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-	<category lang="pl">Program muzyczny</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E12</episode-num>
-    </programme>
-
-<programme start="20250505100000 +0200" stop="20250505102500 +0200" channel="program_1">
-        <title>Szczenięce lata clifforda</title>
-        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
-	<category lang="pl">Serial animowany</category>
-	<icon src="https://assets.mubicdn.net/images/film/330514/image-w856.jpg?1745499438"/>
-	<episode-num system="onscreen">E11</episode-num>
-    </programme>
-
-<programme start="20250505102500 +0200" stop="20250505105000 +0200" channel="program_1">
-        <title>Szczenięce lata clifforda</title>
-        <desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
-	<category lang="pl">Serial animowany</category>
-	<icon src="https://assets.mubicdn.net/images/film/330514/image-w856.jpg?1745499438"/>
-	<episode-num system="onscreen">E12</episode-num>
-    </programme>	
-
-
-<programme start="20250505105000 +0200" stop="20250505110000 +0200" channel="program_1">
-        <title>Wpadki</title>
-        <desc>Program przedstawia wszystkie zabawne momenty oraz wpadki które były nadawane we wszystkich stacjach Super Grupy</desc>
-	<category lang="pl">Program rozrywkowy</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_1774d164a1c8437987f2f44c3ad6dc57~mv2.jpg"/>
-	<episode-num system="onscreen">E01</episode-num>
-    </programme>
-	
-<programme start="20250505110000 +0200" stop="20250505130000 +0200" channel="program_1">
-        <title>Zakończenie programu</title>
-        <desc>Do zobaczenia wkrótce!</desc>
-    </programme>	
 	
 <programme start="20250420000000 +0200" stop="20250531235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
