@@ -20,65 +20,6 @@
     </channel>
 
 
-<programme start="20250604090000 +0200" stop="20250604111500 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Pytania w sprawach bieżących</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>	
-
-<programme start="20250604111500 +0200" stop="20250604124500 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Informacja bieżąca</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20250604124500 +0200" stop="20250604144500 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Pierwsze czytanie przedstawionego przez Prezydenta Rzeczypospolitej Polskiej projektu ustawy o zmianie Konstytucji Rzeczypospolitej Polskiej (druk nr 1106) (5-minutowe oświadczenia w imieniu klubów i 3-minutowe oświadczenia w imieniu kół)</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20250604144500 +0200" stop="20250604161500 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych (druk nr 1280) (5-minutowe oświadczenia w imieniu klubów i 3-minutowe oświadczenia w imieniu kół)</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20250604161500 +0200" stop="20250604173000 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (druk nr 1264) (5-minutowe oświadczenia w imieniu klubów i 3-minutowe oświadczenia w imieniu kół)</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20250604173000 +0200" stop="20250604183000 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Głosowania</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20250604183000 +0200" stop="20250604203000 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Sprawozdanie Ministra Spraw Wewnętrznych i Administracji z realizacji w 2024 r. ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców wraz ze stanowiskiem Komisji (druki nr 1163 i 1178) (5-minutowe oświadczenia w imieniu klubów i 3-minutowe oświadczenia w imieniu kół)</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>	
-
-<programme start="20250604203000 +0200" stop="20250604220000 +0200" channel="informacje_24">
-        <title>36. posiedzenie sejmu - Dzień drugi</title>
-        <desc>Oświadczenia poselskie</desc>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-B6JK4N/$File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20250604220000 +0200" stop="20250605060000 +0200" channel="informacje_24">
-        <title>Zakończenie programu</title>
-    </programme>
 	
 <programme start="20250520000000 +0200" stop="20250631235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
