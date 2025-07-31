@@ -20,43 +20,6 @@
     </channel>
 
 
-<programme start="20250731184000 +0200" stop="20250731194000 +0200" channel="plus">
-        <title>Piosenki w Programie 1</title>
-        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-	<category lang="pl">Program muzyczny</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E12</episode-num>
-    </programme>
-
-<programme start="20250731194000 +0200" stop="20250731204000 +0200" channel="plus">
-        <title>Piosenki w Programie 1</title>
-        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-	<category lang="pl">Program muzyczny</category>
-	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E13</episode-num>
-    </programme>
-
-
-<programme start="20250731204000 +0200" stop="20250731232000 +0200" channel="plus">
-        <title>Diuna</title>
-        <desc>Film "Diuna" opowiada historię niezwykłej, pełnej przygód i emocji podróży Paula Atreidesa. Temu genialnemu i utalentowanemu młodemu człowiekowi pisane jest wspaniałe przeznaczenie, którego on sam nie jest w stanie pojąć. Najpierw jednak Paul musi się udać na najbardziej niebezpieczną planetę we wszechświecie, żeby ratować rodzinę i rodaków. Na planecie wybucha zażarty konflikt o dostęp do niewystępującej nigdzie indziej, najcenniejszej ze znanych substancji. Wyzwala ona w ludziach ich największy potencjał. Ale wojnę przetrwają tylko ci, którzy pokonają swój strach.</desc>
-	<category lang="pl">Film Sci-Fi</category>
-	<icon src="https://fwcdn.pl/webv/83/27/58327/58327.6.jpg"/>
-    </programme>
-
-<programme start="20250731232000 +0200" stop="20250801010000 +0200" channel="plus">
-        <title>Francuski numer</title>
-        <desc>Do Paryża zdezelowanym kradzionym mercedesem podróżują: 50-latek z synem, czarnoskóry student, Ormianin Siergiej i Magda, która nabyła pojazd w komisie. Za autem podążają ludzie właściciela.</desc>
-	<category lang="pl">Film/Komedia kryminalna</category>
-	<icon src="https://d-tv.ppstatic.pl/images/tv-tv/b2/e2/prg1352956_830084883_full.jpg"/>
-    </programme>
-	
-
-<programme start="20250801010000 +0200" stop="20250801060000 +0200" channel="plus">
-        <title>Zakończenie programu</title>
-        <desc>Do zobaczenia wkrótce!</desc>
-    </programme>
-
 	
 <programme start="20250720000000 +0200" stop="20250831235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
