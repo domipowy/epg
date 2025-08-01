@@ -20,62 +20,6 @@
     </channel>
 
 
-<programme start="20250801163000 +0200" stop="20250801171000 +0200" channel="plus">
-        <title>Szpital</title>
-        <desc>Program powstaje przy udziale konsultantów oraz lekarzy z kilku krakowskich szpitalnych oddziałów ratunkowych. Od nich pochodzą opisy zdarzeń z izby przyjęć, a także wskazówki dotyczące dalszego diagnozowania i leczenia pacjentów. Każdy z odcinków tworzy odrębną całość. Finałem jest rozwiązanie zagadki medycznej. Wtedy również widzowie poznają rokowania oraz rozstrzygnięcie sytuacji prywatnej. Część medyczna wpisana jest w kontekst obyczajowy dotykający problemów rodzinnych lub trudnej sytuacji materialnej pacjentów.</desc>
-	<category lang="pl">Serial fabularno-dokumentalny</category>
-	<icon src="https://d-tv.ppstatic.pl/images/tv-tv/28/46/eps41174_831884619_large.jpg"/>
-	<episode-num system="onscreen">E97</episode-num>
-    </programme>
-
-<programme start="20250801171000 +0200" stop="20250801183500 +0200" channel="plus">
-        <title>Powstanie warszawskie</title>
-        <desc>Dokument o powstaniu warszawskim zmontowany w całości z materiałów dokumentalnych i kronik filmowych kręconych w sierpniu 1944 r. w Warszawie. W archiwalne materiały został wpleciony wątek fabularny.</desc>
-	<category lang="pl">Film dokumentalny</category>
-	<icon src="https://www.sejm.gov.pl/media9.nsf/photos/MPRA-BRZFRR/$File/PW-03.view.jpg"/>
-    </programme>
-
-
-<programme start="20250801183500 +0200" stop="20250801192000 +0200" channel="plus">
-        <title>Szpital</title>
-        <desc>Program powstaje przy udziale konsultantów oraz lekarzy z kilku krakowskich szpitalnych oddziałów ratunkowych. Od nich pochodzą opisy zdarzeń z izby przyjęć, a także wskazówki dotyczące dalszego diagnozowania i leczenia pacjentów. Każdy z odcinków tworzy odrębną całość. Finałem jest rozwiązanie zagadki medycznej. Wtedy również widzowie poznają rokowania oraz rozstrzygnięcie sytuacji prywatnej. Część medyczna wpisana jest w kontekst obyczajowy dotykający problemów rodzinnych lub trudnej sytuacji materialnej pacjentów.</desc>
-	<category lang="pl">Serial fabularno-dokumentalny</category>
-	<icon src="https://d-tv.ppstatic.pl/images/tv-tv/28/46/eps41174_831884619_large.jpg"/>
-	<episode-num system="onscreen">E98</episode-num>
-    </programme>
-	
-<programme start="20250801192000 +0200" stop="20250801201000 +0200" channel="plus">
-        <title>Powstanie Warszawskie '44</title>
-        <desc>Antoni Dudek opowiada o powstaniu warszawskim na kanale youtube.</desc>
-	<category lang="pl">Program dokumentalny</category>
-	<icon src="https://www.sejm.gov.pl/media9.nsf/photos/MPRA-BRZFRR/$File/PW-03.view.jpg"/>
-    </programme>
-
-<programme start="20250801201000 +0200" stop="20250801220500 +0200" channel="plus">
-        <title>Sala samobójców</title>
-        <desc>Dominik to zwyczajny chłopak. Ma wielu znajomych, najładniejszą dziewczynę w szkole, bogatych rodziców, pieniądze na ciuchy, gadżety, imprezy i pewnego dnia jeden pocałunek zmienia wszystko. "Ona" zaczepia go w sieci. Jest intrygująca, niebezpieczna, przebiegła. Wprowadza go do "Sali samobójców", miejsca, z którego nie ma ucieczki. Dominik, w pułapce własnych uczuć, wplątany w śmiertelną intrygę, straci to, co w życiu najcenniejsze.</desc>
-	<category lang="pl">Thriller</category>
-	<icon src="https://fwcdn.pl/webv/40/45/24045/z01.24045.4.jpg"/>
-    </programme>
-
-<programme start="20250801220500 +0200" stop="20250801234500 +0200" channel="plus">
-        <title>Symetria</title>
-        <desc>Dwudziestosześcioletni Łukasz (Arkadiusz Detmer), niesłusznie posądzony o napad na starszą kobietę, trafia do aresztu śledczego. Adwokat wynajęty przez matkę (Elżbieta Kijowska) bezskutecznie próbuje go stamtąd wydostać. Pod wpływem dramatycznych wydarzeń w celi przejściowej Łukasz za wszelką cenę chce znaleźć się wśród grypsującej części więźniów. Świat gitów wymaga jednak przestrzegania panujących tu twardych zasad.</desc>
-	<category lang="pl">Dramat</category>
-	<icon src="https://film.org.pl/wp-content/uploads/2020/12/symetria5.jpg"/>
-    </programme>
-
-<programme start="20250801234500 +0200" stop="20250802011000 +0200" channel="plus">
-        <title>Powstanie warszawskie</title>
-        <desc>Dokument o powstaniu warszawskim zmontowany w całości z materiałów dokumentalnych i kronik filmowych kręconych w sierpniu 1944 r. w Warszawie. W archiwalne materiały został wpleciony wątek fabularny.</desc>
-	<category lang="pl">Film dokumentalny</category>
-	<icon src="https://www.sejm.gov.pl/media9.nsf/photos/MPRA-BRZFRR/$File/PW-03.view.jpg"/>
-    </programme>
-
-<programme start="20250802011000 +0200" stop="20250802060000 +0200" channel="plus">
-        <title>Zakończenie programu</title>
-        <desc>Do zobaczenia wkrótce!</desc>
-    </programme>
 	
 <programme start="20250720000000 +0200" stop="20250831235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
