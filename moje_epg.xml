@@ -20,6 +20,163 @@
     </channel>
 
 
+<programme start="20250803200000 +0200" stop="20250803213500 +0200" channel="plus">
+        <title>Aeon Flux</title>
+        <desc>Akcja toczy się w przyszłości, w 2415 roku, w mieście Bregna, które jest ostatnią ostoją ludzkości po epidemii. Główną bohaterką jest Aeon Flux, zabójczyni walcząca z totalitarnym rządem. Film przedstawia jej misję obalenia rządu i odkrywanie tajemnic Bregny i własnej przeszłości.</desc>
+	<category lang="pl">Film Sci-Fi</category>
+	<icon src="https://m.media-amazon.com/images/S/pv-target-images/ef4fdd6be7e65f0cd2ea3a0bac6096ab89eabdc078f2ff04c579611813c2e4db._SX1080_FMjpg_.jpg"/>
+    </programme>
+	
+<programme start="20250803213500 +0200" stop="20250803235000 +0200" channel="plus">
+        <title>My, dzieci z dworca Zoo</title>
+        <desc>Wstrząsająca ekranizacja pamiętników Christiane F. 12-letnia Christiane, dorastająca w blokowiskach Berlina, nie ma żadnych zainteresowań. Wraz z koleżanką trafia do lokalu, gdzie kwitnie handel narkotykami. Tam poznaje niewiele starszego Detlefa, który jest uzależniony od heroiny. Dziewczyna zaczyna od wdychania białego proszku, z czasem sięga po strzykawkę. Coraz głębiej grzęźnie w nałogu, a gdy zaczyna brakować jej pieniędzy, zostaje prostytutką.</desc>
+	<category lang="pl">Dramat obyczajowy</category>
+	<icon src="https://pieknoumyslu.com/wp-content/uploads/2020/09/christina-f.jpg"/>
+    </programme>
+
+<programme start="20250803235000 +0200" stop="20250804005000 +0200" channel="plus">
+        <title>Piosenki w Programie 1</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Program muzyczny</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">E05</episode-num>
+    </programme>
+
+<programme start="20250804005000 +0200" stop="20250804194500 +0200" channel="plus">
+        <title>Przerwa w nadawaniu</title>
+        <desc>Do zobaczenia później!</desc>
+    </programme>
+
+<programme start="20250804194500 +0200" stop="20250804203000 +0200" channel="plus">
+        <title>Szpital</title>
+        <desc>Program powstaje przy udziale konsultantów oraz lekarzy z kilku krakowskich szpitalnych oddziałów ratunkowych. Od nich pochodzą opisy zdarzeń z izby przyjęć, a także wskazówki dotyczące dalszego diagnozowania i leczenia pacjentów. Każdy z odcinków tworzy odrębną całość. Finałem jest rozwiązanie zagadki medycznej. Wtedy również widzowie poznają rokowania oraz rozstrzygnięcie sytuacji prywatnej. Część medyczna wpisana jest w kontekst obyczajowy dotykający problemów rodzinnych lub trudnej sytuacji materialnej pacjentów.</desc>
+	<category lang="pl">Serial paradokumentalny</category>
+	<icon src="https://d-tv.ppstatic.pl/images/tv-tv/28/46/eps41174_831884619_xlarge.jpg"/>
+	<episode-num system="onscreen">E94</episode-num>
+    </programme>
+	
+<programme start="20250804203000 +0200" stop="20250804211500 +0200" channel="plus">
+        <title>Szpital</title>
+        <desc>Program powstaje przy udziale konsultantów oraz lekarzy z kilku krakowskich szpitalnych oddziałów ratunkowych. Od nich pochodzą opisy zdarzeń z izby przyjęć, a także wskazówki dotyczące dalszego diagnozowania i leczenia pacjentów. Każdy z odcinków tworzy odrębną całość. Finałem jest rozwiązanie zagadki medycznej. Wtedy również widzowie poznają rokowania oraz rozstrzygnięcie sytuacji prywatnej. Część medyczna wpisana jest w kontekst obyczajowy dotykający problemów rodzinnych lub trudnej sytuacji materialnej pacjentów.</desc>
+	<category lang="pl">Serial paradokumentalny</category>
+	<icon src="https://d-tv.ppstatic.pl/images/tv-tv/28/46/eps41174_831884619_xlarge.jpg"/>
+	<episode-num system="onscreen">E95</episode-num>
+    </programme>
+	
+<programme start="20250804211500 +0200" stop="20250804225000 +0200" channel="plus">
+        <title>Terminator - Kroniki Sary Connor</title>
+        <desc>Akcja serialu toczy się po drugiej części Terminatora, a wydarzenia są alternatywne w stosunku do wydarzeń przedstawionych w trzeciej części. Po dwóch latach spokoju od zniszczenia dokumentacji na temat Skynet Sarah i John stają po raz kolejny w starciu z wysłanym z przyszłości terminatorem, którego celem jest zgładzenie Johna. Na odsiecz wysłany zostaje również inny terminator, który ma za zadanie chronić przyszłego przywódcę Ruchu Oporu. Jak się okazuje, mimo zniszczeniu budowania systemu Skynet nadal ma dojść do nuklearnej apokalipsy i bohaterowie po raz kolejny chcą powstrzymać bunt maszyn.</desc>
+	<category lang="pl">Serial Sci-Fi</category>
+	<icon src="https://media.teleman.pl/photos/Terminator-Kroniki-Sary-Connor-2008_8H3sk4l.jpg"/>
+	<episode-num system="onscreen">S1E01</episode-num>
+    </programme>
+	
+<programme start="20250804220500 +0200" stop="20250804225000 +0200" channel="plus">
+        <title>Terminator - Kroniki Sary Connor</title>
+        <desc>Akcja serialu toczy się po drugiej części Terminatora, a wydarzenia są alternatywne w stosunku do wydarzeń przedstawionych w trzeciej części. Po dwóch latach spokoju od zniszczenia dokumentacji na temat Skynet Sarah i John stają po raz kolejny w starciu z wysłanym z przyszłości terminatorem, którego celem jest zgładzenie Johna. Na odsiecz wysłany zostaje również inny terminator, który ma za zadanie chronić przyszłego przywódcę Ruchu Oporu. Jak się okazuje, mimo zniszczeniu budowania systemu Skynet nadal ma dojść do nuklearnej apokalipsy i bohaterowie po raz kolejny chcą powstrzymać bunt maszyn.</desc>
+	<category lang="pl">Serial Sci-Fi</category>
+	<icon src="https://media.teleman.pl/photos/Terminator-Kroniki-Sary-Connor-2008_8H3sk4l.jpg"/>
+	<episode-num system="onscreen">S1E02</episode-num>
+    </programme>
+	
+<programme start="20250804225000 +0200" stop="20250804230500 +0200" channel="plus">
+        <title>Helluva Boss</title>
+        <desc>W Piekle, imp Blitzø prowadzi interes zabójców, atakując świat żywych, korzystając z księgi zaklęć pożyczonej od księcia Piekła. Wraz z pracownicami Moxxie, Millie i Looną, próbują przetrwać, utrzymując jednocześnie interes na powierzchni.</desc>
+	<category lang="pl">Animacja dla dorosłych</category>
+	<icon src="https://images.squarespace-cdn.com/content/v1/5b637c76e17ba3724ec64dcb/25a1836a-b3ac-4663-b5af-64e3f345fc11/Geeky-Waffles-Helluva-Boss-Pilot-Review-Millie-Blitzo-Moxxie.png"/>
+	<episode-num system="onscreen">S1E01</episode-num>
+    </programme>
+
+<programme start="20250804230500 +0200" stop="20250804232500 +0200" channel="plus">
+        <title>Helluva Boss</title>
+        <desc>W Piekle, imp Blitzø prowadzi interes zabójców, atakując świat żywych, korzystając z księgi zaklęć pożyczonej od księcia Piekła. Wraz z pracownicami Moxxie, Millie i Looną, próbują przetrwać, utrzymując jednocześnie interes na powierzchni.</desc>
+	<category lang="pl">Animacja dla dorosłych</category>
+	<icon src="https://images.squarespace-cdn.com/content/v1/5b637c76e17ba3724ec64dcb/25a1836a-b3ac-4663-b5af-64e3f345fc11/Geeky-Waffles-Helluva-Boss-Pilot-Review-Millie-Blitzo-Moxxie.png"/>
+	<episode-num system="onscreen">S1E02</episode-num>
+    </programme>
+
+<programme start="20250804232500 +0200" stop="20250804234500 +0200" channel="plus">
+        <title>Helluva Boss</title>
+        <desc>W Piekle, imp Blitzø prowadzi interes zabójców, atakując świat żywych, korzystając z księgi zaklęć pożyczonej od księcia Piekła. Wraz z pracownicami Moxxie, Millie i Looną, próbują przetrwać, utrzymując jednocześnie interes na powierzchni.</desc>
+	<category lang="pl">Animacja dla dorosłych</category>
+	<icon src="https://images.squarespace-cdn.com/content/v1/5b637c76e17ba3724ec64dcb/25a1836a-b3ac-4663-b5af-64e3f345fc11/Geeky-Waffles-Helluva-Boss-Pilot-Review-Millie-Blitzo-Moxxie.png"/>
+	<episode-num system="onscreen">S1E03</episode-num>
+    </programme>
+
+<programme start="20250804234500 +0200" stop="20250805004500 +0200" channel="plus">
+        <title>Piosenki w Programie 1</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Program muzyczny</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">E06</episode-num>
+    </programme>
+
+<programme start="20250805004500 +0200" stop="20250805195000 +0200" channel="plus">
+        <title>Przerwa w nadawaniu</title>
+        <desc>Do zobaczenia później!</desc>
+    </programme>	
+
+
+<programme start="20250805195000 +0200" stop="20250805203500 +0200" channel="plus">
+        <title>Sędzia Anna Maria Wesołowska</title>
+        <desc>Victoria Gdańsk i Naprzód Gdynia to odwieczni rywale piłkarscy. Przed sądem stają dzisiaj dwie kibicki Naprzodu – Ewelina Patoka i Marietta Szukowska. Są one oskarżone o pobicia i uszkodzenie ciała Alberta Zawrotniaka – kibica przeciwnej drużyny. Czy do zdarzenia doszło tylko na tle kibicowskim? A może sprawa skrywa jakąś tajemnicę?</desc>
+	<category lang="pl">Serial paradokumentalny</category>
+	<icon src="https://www.radziechowy-wieprz.pl/storage/blogpost/82/81740/1100-0-70.jpg"/>
+	<episode-num system="onscreen">E556</episode-num>
+    </programme>	
+	
+<programme start="20250805203500 +0200" stop="20250805212000 +0200" channel="plus">
+        <title>Sędzia Anna Maria Wesołowska</title>
+        <desc>Rafał Kozłowski jest oskarżony o wypchnięcie z okna swojego przyjaciela, ale równocześnie rywala w zawodach paralotniarskich, Jakuba Mielcarka. Mężczyzna po upadku z trzeciego piętra doznał poważnych obrażeń i jest w śpiączce. Siostra pokrzywdzonego jest przekonana, że Rafał chciał w ten sposób pozbyć największego konkurenta. Sam oskarżony z kolei sugeruje, że jego przyjaciel usiłował popełnić samobójstwo.</desc>
+	<category lang="pl">Serial paradokumentalny</category>
+	<icon src="https://www.radziechowy-wieprz.pl/storage/blogpost/82/81740/1100-0-70.jpg"/>
+	<episode-num system="onscreen">E557</episode-num>
+    </programme>
+	
+<programme start="20250805212000 +0200" stop="20250805220500 +0200" channel="plus">
+        <title>Terminator - Kroniki Sary Connor</title>
+        <desc>Akcja serialu toczy się po drugiej części Terminatora, a wydarzenia są alternatywne w stosunku do wydarzeń przedstawionych w trzeciej części. Po dwóch latach spokoju od zniszczenia dokumentacji na temat Skynet Sarah i John stają po raz kolejny w starciu z wysłanym z przyszłości terminatorem, którego celem jest zgładzenie Johna. Na odsiecz wysłany zostaje również inny terminator, który ma za zadanie chronić przyszłego przywódcę Ruchu Oporu. Jak się okazuje, mimo zniszczeniu budowania systemu Skynet nadal ma dojść do nuklearnej apokalipsy i bohaterowie po raz kolejny chcą powstrzymać bunt maszyn.</desc>
+	<category lang="pl">Serial Sci-Fi</category>
+	<icon src="https://media.teleman.pl/photos/Terminator-Kroniki-Sary-Connor-2008_8H3sk4l.jpg"/>
+	<episode-num system="onscreen">S1E03</episode-num>
+    </programme>	
+
+<programme start="20250805220500 +0200" stop="20250805225000 +0200" channel="plus">
+        <title>Terminator - Kroniki Sary Connor</title>
+        <desc>Akcja serialu toczy się po drugiej części Terminatora, a wydarzenia są alternatywne w stosunku do wydarzeń przedstawionych w trzeciej części. Po dwóch latach spokoju od zniszczenia dokumentacji na temat Skynet Sarah i John stają po raz kolejny w starciu z wysłanym z przyszłości terminatorem, którego celem jest zgładzenie Johna. Na odsiecz wysłany zostaje również inny terminator, który ma za zadanie chronić przyszłego przywódcę Ruchu Oporu. Jak się okazuje, mimo zniszczeniu budowania systemu Skynet nadal ma dojść do nuklearnej apokalipsy i bohaterowie po raz kolejny chcą powstrzymać bunt maszyn.</desc>
+	<category lang="pl">Serial Sci-Fi</category>
+	<icon src="https://media.teleman.pl/photos/Terminator-Kroniki-Sary-Connor-2008_8H3sk4l.jpg"/>
+	<episode-num system="onscreen">S1E04</episode-num>
+    </programme>
+	
+<programme start="20250805225000 +0200" stop="20250805231500 +0200" channel="plus">
+        <title>Hazbin Hotel</title>
+        <desc>Charlie Gwiazda Zaranna, księżniczka Piekieł, próbuje przekonać anioły i demony, że dusze da się odkupić. Śpiewaj i przeklinaj do wtóru tej animowanej muzycznej komedii dla dorosłych, która opowiada o drugiej szansie.</desc>
+	<category lang="pl">Animacja dla dorosłych</category>
+	<icon src="https://m.media-amazon.com/images/S/pv-target-images/b5b6773ac2fd98d8bf205f3495004426407f8ce5f8bc7b552fce2b2744040b61._SX1080_FMjpg_.jpg"/>
+	<episode-num system="onscreen">S1E01</episode-num>
+    </programme>
+
+<programme start="20250805231500 +0200" stop="20250805234000 +0200" channel="plus">
+        <title>Hazbin Hotel</title>
+        <desc>Charlie Gwiazda Zaranna, księżniczka Piekieł, próbuje przekonać anioły i demony, że dusze da się odkupić. Śpiewaj i przeklinaj do wtóru tej animowanej muzycznej komedii dla dorosłych, która opowiada o drugiej szansie.</desc>
+	<category lang="pl">Animacja dla dorosłych</category>
+	<icon src="https://m.media-amazon.com/images/S/pv-target-images/b5b6773ac2fd98d8bf205f3495004426407f8ce5f8bc7b552fce2b2744040b61._SX1080_FMjpg_.jpg"/>
+	<episode-num system="onscreen">S1E01</episode-num>
+    </programme>
+
+<programme start="20250805234000 +0200" stop="20250806004000 +0200" channel="plus">
+        <title>Piosenki w Programie 1</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Program muzyczny</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">E07</episode-num>
+    </programme>
+
+<programme start="20250806004000 +0200" stop="20250806060000 +0200" channel="plus">
+        <title>Zakończenie programu</title>
+        <desc>Do zobaczenia wkrótce!</desc>
+    </programme>
 	
 <programme start="20250720000000 +0200" stop="20250831235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
@@ -36,4 +193,5 @@
     </programme>
 	
 </tv>
+
 
