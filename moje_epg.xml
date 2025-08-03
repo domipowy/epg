@@ -63,7 +63,7 @@
 	<episode-num system="onscreen">E95</episode-num>
     </programme>
 	
-<programme start="20250804211500 +0200" stop="20250804225000 +0200" channel="plus">
+<programme start="20250804211500 +0200" stop="20250804220500 +0200" channel="plus">
         <title>Terminator - Kroniki Sary Connor</title>
         <desc>Akcja serialu toczy się po drugiej części Terminatora, a wydarzenia są alternatywne w stosunku do wydarzeń przedstawionych w trzeciej części. Po dwóch latach spokoju od zniszczenia dokumentacji na temat Skynet Sarah i John stają po raz kolejny w starciu z wysłanym z przyszłości terminatorem, którego celem jest zgładzenie Johna. Na odsiecz wysłany zostaje również inny terminator, który ma za zadanie chronić przyszłego przywódcę Ruchu Oporu. Jak się okazuje, mimo zniszczeniu budowania systemu Skynet nadal ma dojść do nuklearnej apokalipsy i bohaterowie po raz kolejny chcą powstrzymać bunt maszyn.</desc>
 	<category lang="pl">Serial Sci-Fi</category>
@@ -193,6 +193,7 @@
     </programme>
 	
 </tv>
+
 
 
 
