@@ -53,6 +53,15 @@
     </programme>
 
 
+<programme start="20250806183000 +0200" stop="20250806191500 +0200" channel="program_1">
+        <title>Sędzia Anna Maria Wesołowska</title>
+        <desc>Starsza, schorowana kobieta przepisała swój dom na wnuka i jego żonę. W zamian młode małżeństwo miało się nią opiekować. Pewnego dnia babci podano środek zwiotczający mięśnie, w wyniku czego kobieta zmarła. Świadkowie twierdzą, że żona jej wnuka zabiła starszą panią, bo była zmęczona uciążliwością opieki nad chorującą na nowotwór babcią.</desc>
+	<category lang="pl">Serial paradokumentalny</category>
+	<icon src="https://www.radziechowy-wieprz.pl/storage/blogpost/82/81740/1100-0-70.jpg"/>
+	<episode-num system="onscreen">E595</episode-num>
+    </programme>
+	
+
 <programme start="20250806191500 +0200" stop="20250806200000 +0200" channel="program_1">
         <title>Szpital</title>
         <desc>Program powstaje przy udziale konsultantów oraz lekarzy z kilku krakowskich szpitalnych oddziałów ratunkowych. Od nich pochodzą opisy zdarzeń z izby przyjęć, a także wskazówki dotyczące dalszego diagnozowania i leczenia pacjentów. Każdy z odcinków tworzy odrębną całość. Finałem jest rozwiązanie zagadki medycznej. Wtedy również widzowie poznają rokowania oraz rozstrzygnięcie sytuacji prywatnej. Część medyczna wpisana jest w kontekst obyczajowy dotykający problemów rodzinnych lub trudnej sytuacji materialnej pacjentów.</desc>
@@ -280,6 +289,7 @@
     </programme>
 	
 </tv>
+
 
 
 
