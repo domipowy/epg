@@ -20,8 +20,40 @@
     </channel>
 
 
+<programme start="20251109180000 +0200" stop="20251109190000 +0200" channel="program_1">
+        <title>Piosenki w Programie 1</title>
+        <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+	<category lang="pl">Program muzyczny</category>
+	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+	<episode-num system="onscreen">E13</episode-num>
+    </programme>
 	
-<programme start="20250720000000 +0200" stop="20250831235900 +0200" channel="super_radio">
+<programme start="20251109190000 +0200" stop="20251109210000 +0200" channel="program_1">
+        <title>Symulator parlamentu</title>
+	<category lang="pl">Polityka</category>
+	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-A45MHG/%24File/KB__0049.view.jpg"/>
+    </programme>
+
+<programme start="20251109210000 +0200" stop="20251109223000 +0200" channel="program_1">
+        <title>Umysł (nie)ludzki – o AI bez tajemnic</title>
+	    <desc>Jak bardzo sztuczna inteligencja przypomina ludzki umysł? Czy jej rozwój to szansa, czy zagrożenie? Zapraszamy na debatę, podczas której porozmawiamy o granicach, możliwościach i etyce sztucznej inteligencji — bez naukowego żargonu, za to z otwartymi głowami.</desc>
+	<category lang="pl">Talk-show</category>
+	<icon src="https://aioai.pl/wp-content/uploads/2025/11/fintech-AI.jpeg"/>
+    </programme>
+
+<programme start="20251109223000 +0200" stop="20251110001500 +0200" channel="program_1">
+        <title>Kogel-mogel</title>
+	    <desc>Po emocjach związanych z egzaminami wstępnymi na wydział pedagogiki Katarzyna Solska (Grażyna Błęcka-Kolska) wraca do rodzinnej wsi. I tu czeka ją niespodzianka - rodzina bez jej wiedzy rozpoczęła przygotowania do zaręczyn z bogatym sąsiadem Kolasą (Jerzy Rogalski). Dziewczyna wpada w rozpacz, próbuje się sprzeciwić decyzji rodziców, ale zostaje zamknięta w swoim pokoju. W dniu wizyty narzeczonego ucieka przez okno i z poczty dzwoni na uczelnię. Otrzymuje mylną informację i jest przekonana, że nie została przyjęta na studia. Zrezygnowana wraca do domu i zgadza się na ślub. Tymczasem w przeddzień wesela listonosz przynosi zawiadomienie o przyjęciu na uniwersytet.</desc>
+	<category lang="pl">Komedia</category>
+	<icon src="https://szklanydom.maslow.pl/uploads/akts_dir/d9b9c5238ad23d2393f759545700f3dd.jpg"/>
+    </programme>
+
+<programme start="20251110001500 +0200" stop="20251110060000 +0200" channel="program_1">
+        <title>Zakończenie programu</title>
+	    <desc>Do zobaczenia wkrótce!</desc>
+    </programme>
+	
+<programme start="20251101000000 +0200" stop="20251230235900 +0200" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
 	<category lang="pl">Radio</category>
@@ -36,6 +68,7 @@
     </programme>
 	
 </tv>
+
 
 
 
