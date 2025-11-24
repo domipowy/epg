@@ -20,35 +20,30 @@
     </channel>
 
 
-<programme start="20251109180000 +0100" stop="20251109190000 +0100" channel="program_1">
+<programme start="20251124200000 +0100" stop="20251124210000 +0100" channel="program_1">
         <title>Piosenki w Programie 1</title>
         <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
 	<category lang="pl">Program muzyczny</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E13</episode-num>
+	<episode-num system="onscreen">E1</episode-num>
     </programme>
 	
-<programme start="20251109190000 +0100" stop="20251109210000 +0100" channel="program_1">
-        <title>Symulator parlamentu</title>
-	<category lang="pl">Polityka</category>
-	<icon src="https://www.sejm.gov.pl/media8.nsf/photos/ASEA-A45MHG/%24File/KB__0049.view.jpg"/>
-    </programme>
-
-<programme start="20251109210000 +0100" stop="20251109223000 +0100" channel="program_1">
-        <title>Umysł (nie)ludzki – o AI bez tajemnic</title>
-	    <desc>Jak bardzo sztuczna inteligencja przypomina ludzki umysł? Czy jej rozwój to szansa, czy zagrożenie? Zapraszamy na debatę, podczas której porozmawiamy o granicach, możliwościach i etyce sztucznej inteligencji — bez naukowego żargonu, za to z otwartymi głowami.</desc>
-	<category lang="pl">Talk-show</category>
-	<icon src="https://aioai.pl/wp-content/uploads/2025/11/fintech-AI.jpeg"/>
-    </programme>
-
-<programme start="20251109223000 +0100" stop="20251110001500 +0100" channel="program_1">
-        <title>Kogel-mogel</title>
-	    <desc>Po emocjach związanych z egzaminami wstępnymi na wydział pedagogiki Katarzyna Solska (Grażyna Błęcka-Kolska) wraca do rodzinnej wsi. I tu czeka ją niespodzianka - rodzina bez jej wiedzy rozpoczęła przygotowania do zaręczyn z bogatym sąsiadem Kolasą (Jerzy Rogalski). Dziewczyna wpada w rozpacz, próbuje się sprzeciwić decyzji rodziców, ale zostaje zamknięta w swoim pokoju. W dniu wizyty narzeczonego ucieka przez okno i z poczty dzwoni na uczelnię. Otrzymuje mylną informację i jest przekonana, że nie została przyjęta na studia. Zrezygnowana wraca do domu i zgadza się na ślub. Tymczasem w przeddzień wesela listonosz przynosi zawiadomienie o przyjęciu na uniwersytet.</desc>
+<programme start="20251124210000 +0100" stop="20251124224000 +0100" channel="program_1">
+        <title>Francuski numer</title>
+	<desc>Akcja filmu rozpoczyna się od kradzieży starego, zdezelowanego Mercedesa, który okazuje się mieć dla byłego właściciela wielką wartość. Samochód trafia do komisu, gdzie zostaje zakupiony przez atrakcyjną Magdę (Karolina Gruszka). Po jakimś czasie kilku facetów "pod presją", usiłuje dostać się jak najszybciej do Paryża. Są to 50-letni bezrobotny Stefan (Jan Frycz), jego 20-letni syn Janek (Jakub Tolak), Ormianin Sergiej (Piotr Borowski) i student z Nigerii, Machu (Yaya Samake). Los chce, że trafiają na ofertę Magdy, która ma ich tam zawieźć wspomnianym "zabytkowym" autem...</desc>
 	<category lang="pl">Komedia</category>
-	<icon src="https://szklanydom.maslow.pl/uploads/akts_dir/d9b9c5238ad23d2393f759545700f3dd.jpg"/>
+	<icon src="https://lh3.googleusercontent.com/isgXy7xez6T3A0faIi3EtdQovDUatxr0emmYsoXVpLhyPiZnQfIKeuORCZYP9gUl_ZcdAE3_Bx2sCSaNgEG2rg4gACF1aOyLpuUAKB3bv_IFj2rUuWA=w1920-h1080"/>
     </programme>
 
-<programme start="20251110001500 +0100" stop="20251110060000 +0100" channel="program_1">
+<programme start="20251124224000 +0100" stop="20251125001500 +0100" channel="program_1">
+        <title>Super tata</title>
+	    <desc>Nowy Jork, czasy współczesne. Dwóch młodych ludzi mieszka w garsonierze na poddaszu. Jeden robi zawrotną karierę, drugi jest abnegatem. Ten pierwszy oświadcza się swej dziewczynie, zostaje przyjęty, szaleje z radości - i rozpoczyna daleką podróż służbową. Następnego dnia u drzwi garsoniery pojawia się pięcioletni chłopiec - jest synem szczęśliwego podróżnika.</desc>
+	<category lang="pl">Komedia</category>
+	<icon src="https://ocdn.eu/ptv-imported-images/akpa189050.jpg"/>
+    </programme>
+
+
+<programme start="20251125001500 +0100" stop="20251125060000 +0100" channel="program_1">
         <title>Zakończenie programu</title>
 	    <desc>Do zobaczenia wkrótce!</desc>
     </programme>
@@ -68,6 +63,7 @@
     </programme>
 	
 </tv>
+
 
 
 
