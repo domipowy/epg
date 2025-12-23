@@ -20,35 +20,48 @@
     </channel>
 
 
-<programme start="20251124200000 +0100" stop="20251124210000 +0100" channel="program_1">
+<programme start="20251223090000 +0100" stop="20251223100000 +0100" channel="program_1">
         <title>Piosenki w Programie 1</title>
         <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
 	<category lang="pl">Program muzyczny</category>
 	<icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-	<episode-num system="onscreen">E1</episode-num>
+	<episode-num system="onscreen">E12</episode-num>
     </programme>
 	
-<programme start="20251124210000 +0100" stop="20251124224000 +0100" channel="program_1">
-        <title>Francuski numer</title>
-	<desc>Akcja filmu rozpoczyna się od kradzieży starego, zdezelowanego Mercedesa, który okazuje się mieć dla byłego właściciela wielką wartość. Samochód trafia do komisu, gdzie zostaje zakupiony przez atrakcyjną Magdę (Karolina Gruszka). Po jakimś czasie kilku facetów "pod presją", usiłuje dostać się jak najszybciej do Paryża. Są to 50-letni bezrobotny Stefan (Jan Frycz), jego 20-letni syn Janek (Jakub Tolak), Ormianin Sergiej (Piotr Borowski) i student z Nigerii, Machu (Yaya Samake). Los chce, że trafiają na ofertę Magdy, która ma ich tam zawieźć wspomnianym "zabytkowym" autem...</desc>
-	<category lang="pl">Komedia</category>
-	<icon src="https://lh3.googleusercontent.com/isgXy7xez6T3A0faIi3EtdQovDUatxr0emmYsoXVpLhyPiZnQfIKeuORCZYP9gUl_ZcdAE3_Bx2sCSaNgEG2rg4gACF1aOyLpuUAKB3bv_IFj2rUuWA=w1920-h1080"/>
+<programme start="20251223100000 +0100" stop="20251223102500 +0100" channel="program_1">
+        <title>Szczenięce lata Clifforda</title>
+	<desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Serial animowany</category>
+	<icon src="https://media.themoviedb.org/t/p/w780/vRX96vGeGoOujGcMWVDM9x6bfmU.jpg"/>
     </programme>
 
-<programme start="20251124224000 +0100" stop="20251125001500 +0100" channel="program_1">
-        <title>Super tata</title>
-	    <desc>Nowy Jork, czasy współczesne. Dwóch młodych ludzi mieszka w garsonierze na poddaszu. Jeden robi zawrotną karierę, drugi jest abnegatem. Ten pierwszy oświadcza się swej dziewczynie, zostaje przyjęty, szaleje z radości - i rozpoczyna daleką podróż służbową. Następnego dnia u drzwi garsoniery pojawia się pięcioletni chłopiec - jest synem szczęśliwego podróżnika.</desc>
-	<category lang="pl">Komedia</category>
-	<icon src="https://ocdn.eu/ptv-imported-images/akpa189050.jpg"/>
+<programme start="20251223102500 +0100" stop="20251223105000 +0100" channel="program_1">
+        <title>Szczenięce lata Clifforda</title>
+	<desc>Pierwsze przygody psa Clifforda. W dzieciństwie był najmniejszy z rodzeństwa – malutka puszysta czerwona kuleczka mieszcząca się w dłoni. Od początku był bardzo wesoły, miał duże poczucie humoru i wielkie serce. Emily Elizabeth od razu go pokochała. Film ukazuje przygody małego Clifforda oraz jego przyjaciół: kotów Fo i Zo, królika Daffodila i ptaszka Norvilla.</desc>
+	<category lang="pl">Serial animowany</category>
+	<icon src="https://media.themoviedb.org/t/p/w780/vRX96vGeGoOujGcMWVDM9x6bfmU.jpg"/>
+    </programme>
+
+<programme start="20251223105000 +0100" stop="20251223133500 +0100" channel="program_1">
+        <title>Hobbit: Niezwyykła podróż</title>
+	<desc>"Hobbit" - filmowa adaptacja książki J.R.R. Tolkiena, wstęp do "Władcy Pierścieni", to opowieść pełna niezwykłych wydarzeń i magicznych postaci, przedstawiająca odwieczną walkę dobra ze złem. Hobbit Bilbo Baggins (Martin Freeman) niechętnie wyrusza w niezwykłą i niebezpieczną podróż. Pokierowany przez czarodzieja Gandalfa (Ian McKellen) opuszcza swój przytulny domek w Shire, by wraz z trzynastoma krasnoludami zmierzyć się ze smokiem Smaugiem (Benedict Cumberbatch).</desc>
+	<category lang="pl">Film przygodowy</category>
+	<icon src="https://s10.tvp.pl/images2/0/e/4/uid_0e40255c247d43079a60584a0bed8168_width_1026_play_0_pos_0_gs_0_height_584.jpg"/>
+    </programme>	
+
+<programme start="20251223133500 +0100" stop="20251223200000 +0100" channel="program_1">
+        <title>Przerwa w nadawaniu</title>
+	    <desc>Do zobaczenia wkrótce!</desc>
     </programme>
 
 
+	
 <programme start="20251125001500 +0100" stop="20251125060000 +0100" channel="program_1">
         <title>Zakończenie programu</title>
 	    <desc>Do zobaczenia wkrótce!</desc>
     </programme>
 	
-<programme start="20251101000000 +0100" stop="20251230235900 +0100" channel="super_radio">
+<programme start="20251101000000 +0100" stop="20251231235900 +0100" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
 	<category lang="pl">Radio</category>
@@ -63,6 +76,7 @@
     </programme>
 	
 </tv>
+
 
 
 
