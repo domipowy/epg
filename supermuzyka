@@ -1,0 +1,74 @@
+from datetime import datetime, timedelta
+import xml.etree.ElementTree as ET
+
+CHANNEL_ID = "super_muzyka"
+CHANNEL_NAME = "Super Muzyka"
+CHANNEL_ICON = "https://static.wixstatic.com/media/f287cb_super_muzyka_logo.png"
+
+PASMA = [
+    ("Poranek z muzyką",      "0600", "1000",
+     "Lekka muzyka na start dnia w Super Muzyka.",
+     "Program muzyczny", "E01"),
+    ("Przed 12",              "1000", "1200",
+     "Mix hitów przed południem.",
+     "Program muzyczny", "E01"),
+    ("W ciągu dnia",          "1200", "1600",
+     "Hity na popołudnie.",
+     "Program muzyczny", "E01"),
+    ("Piosenki w Programie 1","1600", "1800",
+     "Muzyczny blok z klimatem T1.",
+     "Program muzyczny", "E01"),
+    ("M jak muzyka",          "1800", "2300",
+     "Prime time – największe hity.",
+     "Program muzyczny", "E01"),
+    ("Nocna zmiana",          "2300", "0300",
+     "Mocne i ostre kawałki na noc.",
+     "Program muzyczny", "E01"),
+    ("Early Bird Chill",      "0300", "0600",
+     "Chillout na późną noc / ranek.",
+     "Program muzyczny", "E01"),
+]
+
+DNI_DO_PRZODU = 30  # ile dni ma być w EPG
+
+def fmt(d: datetime, hhmm: str) -> str:
+    return d.strftime("%Y%m%d") + hhmm + " +0100"
+
+def generate_epg():
+    root = ET.Element("tv")
+
+    # kanał
+    ch = ET.SubElement(root, "channel", id=CHANNEL_ID)
+    ET.SubElement(ch, "display-name").text = CHANNEL_NAME
+    ET.SubElement(ch, "icon", src=CHANNEL_ICON)
+
+    day = datetime.now() + timedelta(days=1)
+
+    for _ in range(DNI_DO_PRZODU):
+        for title, start_hm, end_hm, desc, category, episode in PASMA:
+            start_day = day
+            end_day = day
+            if end_hm < start_hm:  # np. 2300 -> 0300 (następny dzień)
+                end_day = day + timedelta(days=1)
+
+            start = fmt(start_day, start_hm)
+            stop = fmt(end_day, end_hm)
+
+            prog = ET.SubElement(root, "programme",
+                                 channel=CHANNEL_ID,
+                                 start=start,
+                                 stop=stop)
+            ET.SubElement(prog, "title").text = title
+            ET.SubElement(prog, "desc").text = desc
+            ET.SubElement(prog, "category", lang="pl").text = category
+            ET.SubElement(prog, "episode-num", system="onscreen").text = episode
+
+        day += timedelta(days=1)
+
+    xml = ET.tostring(root, encoding="utf-8", method="xml").decode("utf-8")
+    with open("epg_super_muzyka.xml", "w", encoding="utf-8") as f:
+        f.write(xml)
+    print("Wygenerowano epg_super_muzyka.xml na", DNI_DO_PRZODU, "dni.")
+
+if __name__ == "__main__":
+    generate_epg()
