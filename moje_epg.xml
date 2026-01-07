@@ -61,7 +61,7 @@
 	    <desc>Do zobaczenia wkrótce!</desc>
     </programme>
 	
-<programme start="20251101000000 +0100" stop="20251231235900 +0100" channel="super_radio">
+<programme start="20260101000000 +0100" stop="20261231235900 +0100" channel="super_radio">
         <title>Muzyka NON-STOP!</title>
         <desc>Radio Internetowe od Super Grupy! Jesteśmy przez 24H. Tutaj posłuchasz swoje ulubione oraz najlepsze piosenki! Słuchajcie nas na naszej stronie internetowej oraz w Zeno.FM</desc>
 	<category lang="pl">Radio</category>
@@ -76,6 +76,7 @@
     </programme>
 	
 </tv>
+
 
 
 
