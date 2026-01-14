@@ -48,7 +48,7 @@
     <episode-num system="onscreen">E01</episode-num>
 </programme>
 
-<programme start="20260102030000 +0100" stop="20270102060000 +0100" channel="super_muzyka">
+<programme start="20260101030000 +0100" stop="20270102060000 +0100" channel="super_muzyka">
     <title>Early Bird Chill</title>
     <desc>Early Bird Chill – chillout i spokojniejsze utwory na późną noc i wczesny ranek.</desc>
     <category lang="pl">Program muzyczny</category>
