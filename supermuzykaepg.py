@@ -53,14 +53,14 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
   <programme start="{fmt(t1600)}" stop="{fmt(t1700)}" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
 
   <programme start="{fmt(t1700)}" stop="{fmt(t1800)}" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
@@ -81,14 +81,14 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
   <programme start="{fmt(t_next_0400)}" stop="{fmt(t_next_0500)}" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
 
   <programme start="{fmt(t_next_0500)}" stop="{fmt(t_next_0600)}" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
@@ -98,3 +98,4 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
 with open("supergrupamuzyczna.xml", "w", encoding="utf-8") as f:
     f.write(xml)
+
