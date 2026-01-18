@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-TZ = " +0000"
+TZ = " +0100"
 
 def fmt(dt):
     # zamiana datetime -> 'YYYYMMDDHHMMSS +0000'
@@ -98,4 +98,5 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
 with open("supergrupamuzyczna.xml", "w", encoding="utf-8") as f:
     f.write(xml)
+
 
