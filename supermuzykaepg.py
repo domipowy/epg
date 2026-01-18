@@ -34,7 +34,7 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
     <title>Poranek z muzyką</title>
     <desc>Halo halo, pobudka wstajemy i gramy dla was!</desc>
     <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_8212a8c5f96e4052a62e6cc88e174d7b~mv2.png"/>
+    <icon src="https://static.wixstatic.com/media/f287cb_8f1e39af9f5c44e3b8973971d3dcb811~mv2.png"/>
   </programme>
 
   <programme start="{fmt(t1000)}" stop="{fmt(t1200)}" channel="super_muzyka">
@@ -98,5 +98,6 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
 with open("supergrupamuzyczna.xml", "w", encoding="utf-8") as f:
     f.write(xml)
+
 
 
