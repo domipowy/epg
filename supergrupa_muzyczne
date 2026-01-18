@@ -98,6 +98,14 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
 
+<programme start="20260118180000 +0100" stop="20260118230000 +0100" channel="super_muzyka">
+    <title>M jak muzyka</title>
+    <desc>Żyjecie? gramy jeszcze najlepsze klasyki wieczorem!</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_3d2c435f332446eda5f41e0daecb67a7~mv2.png"/>
+</programme>
+
+
 </tv>
 '''
 
