@@ -28,14 +28,14 @@
 
   <programme start="20260118160000 +0000" stop="20260118170000 +0000" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
 
   <programme start="20260118170000 +0000" stop="20260118180000 +0000" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
@@ -56,16 +56,17 @@
 
   <programme start="20260119040000 +0000" stop="20260119050000 +0000" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
 
   <programme start="20260119050000 +0000" stop="20260119060000 +0000" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy...</desc>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
     <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
   </programme>
 
 </tv>
+
