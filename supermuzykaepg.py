@@ -23,6 +23,30 @@ t_next_0400 = tomorrow.replace(hour=4)
 t_next_0500 = tomorrow.replace(hour=5)
 t_next_0600 = tomorrow.replace(hour=6)
 
+t0600_d2 = tomorrow.replace(hour=6)
+t1000_d2 = tomorrow.replace(hour=10)
+t1200_d2 = tomorrow.replace(hour=12)
+t1600_d2 = tomorrow.replace(hour=16)
+t1700_d2 = tomorrow.replace(hour=17)
+t1800_d2 = tomorrow.replace(hour=18)
+t2300_d2 = tomorrow.replace(hour=23)
+t_next_0400_d2 = day_after.replace(hour=4)
+t_next_0500_d2 = day_after.replace(hour=5)
+t_next_0600_d2 = day_after.replace(hour=6)
+
+t0600_d3 = day_after.replace(hour=6)
+t1000_d3 = day_after.replace(hour=10)
+t1200_d3 = day_after.replace(hour=12)
+t1600_d3 = day_after.replace(hour=16)
+t1700_d3 = day_after.replace(hour=17)
+t1800_d3 = day_after.replace(hour=18)
+t2300_d3 = day_after.replace(hour=23)
+
+day_after_2 = today + timedelta(days=3) 
+t_next_0400_d3 = day_after_2.replace(hour=4)
+t_next_0500_d3 = day_after_2.replace(hour=5)
+t_next_0600_d3 = day_after_2.replace(hour=6)
+
 xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <channel id="super_muzyka">
@@ -98,6 +122,7 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
 with open("supergrupamuzyczna.xml", "w", encoding="utf-8") as f:
     f.write(xml)
+
 
 
 
