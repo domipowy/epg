@@ -10,6 +10,7 @@ def fmt(dt):
 today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
 # Jutro (potrzebne do nocy)
 tomorrow = today + timedelta(days=1)
+day_after = today + timedelta(days=2)
 
 # Godziny ramówki
 t0600 = today.replace(hour=6)
@@ -173,6 +174,7 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 
 with open("supergrupamuzyczna.xml", "w", encoding="utf-8") as f:
     f.write(xml)
+
 
 
 
