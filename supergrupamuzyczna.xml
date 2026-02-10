@@ -5,70 +5,7 @@
     <icon src="https://static.wixstatic.com/media/f287cb_9ea90c5c4b554da2b0a334dc707559b3~mv2.png"/>
   </channel>
 
-  <programme start="20260209060000 +0100" stop="20260209100000 +0100" channel="super_muzyka">
-    <title>Poranek z muzyką</title>
-    <desc>Halo halo, pobudka wstajemy i gramy dla was!</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_8f1e39af9f5c44e3b8973971d3dcb811~mv2.png"/>
-  </programme>
-
-  <programme start="20260209100000 +0100" stop="20260209120000 +0100" channel="super_muzyka">
-    <title>Przed 12</title>
-    <desc>Jeszcze niewybudzeni? Gramy dla was jeszcze przed 12:00</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_8212a8c5f96e4052a62e6cc88e174d7b~mv2.png"/>
-  </programme>
-
-  <programme start="20260209120000 +0100" stop="20260209160000 +0100" channel="super_muzyka">
-    <title>W ciągu dnia</title>
-    <desc>Najlepsza muzyka w ciągu dnia!</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_27d58d1fa3ac465eb588398e9d7b2330~mv2.png"/>
-  </programme>
-
-  <programme start="20260209160000 +0100" stop="20260209170000 +0100" channel="super_muzyka">
-    <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-  </programme>
-
-  <programme start="20260209170000 +0100" stop="20260209180000 +0100" channel="super_muzyka">
-    <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-  </programme>
-
-  <programme start="20260209180000 +0100" stop="20260209230000 +0100" channel="super_muzyka">
-    <title>M jak muzyka</title>
-    <desc>Żyjecie? gramy jeszcze najlepsze klasyki wieczorem!</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_3d2c435f332446eda5f41e0daecb67a7~mv2.png"/>
-  </programme>
-
-  <programme start="20260209230000 +0100" stop="20260210040000 +0100" channel="super_muzyka">
-    <title>Nocna zmiana</title>
-    <desc>Grzeczna muzyka? O tej porze możesz zapomnieć! Bez cenzury i dobrej zabawy!</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_658db068e9134a1a8afb591fab43760c~mv2.png"/>
-  </programme>
-
-  <programme start="20260210040000 +0100" stop="20260210050000 +0100" channel="super_muzyka">
-    <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-  </programme>
-
-  <programme start="20260210050000 +0100" stop="20260210060000 +0100" channel="super_muzyka">
-    <title>Piosenki w Programie 1</title>
-    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
-    <category lang="pl">Program muzyczny</category>
-    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
-  </programme>
-
-<programme start="20260210060000 +0100" stop="20260210100000 +0100" channel="super_muzyka">
+  <programme start="20260210060000 +0100" stop="20260210100000 +0100" channel="super_muzyka">
     <title>Poranek z muzyką</title>
     <desc>Halo halo, pobudka wstajemy i gramy dla was!</desc>
     <category lang="pl">Program muzyczny</category>
@@ -125,6 +62,69 @@
   </programme>
 
   <programme start="20260211050000 +0100" stop="20260211060000 +0100" channel="super_muzyka">
+    <title>Piosenki w Programie 1</title>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+  </programme>
+
+<programme start="20260211060000 +0100" stop="20260211100000 +0100" channel="super_muzyka">
+    <title>Poranek z muzyką</title>
+    <desc>Halo halo, pobudka wstajemy i gramy dla was!</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_8f1e39af9f5c44e3b8973971d3dcb811~mv2.png"/>
+  </programme>
+
+  <programme start="20260211100000 +0100" stop="20260211120000 +0100" channel="super_muzyka">
+    <title>Przed 12</title>
+    <desc>Jeszcze niewybudzeni? Gramy dla was jeszcze przed 12:00</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_8212a8c5f96e4052a62e6cc88e174d7b~mv2.png"/>
+  </programme>
+
+  <programme start="20260211120000 +0100" stop="20260211160000 +0100" channel="super_muzyka">
+    <title>W ciągu dnia</title>
+    <desc>Najlepsza muzyka w ciągu dnia!</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_27d58d1fa3ac465eb588398e9d7b2330~mv2.png"/>
+  </programme>
+
+  <programme start="20260211160000 +0100" stop="20260211170000 +0100" channel="super_muzyka">
+    <title>Piosenki w Programie 1</title>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+  </programme>
+
+  <programme start="20260211170000 +0100" stop="20260211180000 +0100" channel="super_muzyka">
+    <title>Piosenki w Programie 1</title>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+  </programme>
+
+  <programme start="20260211180000 +0100" stop="20260211230000 +0100" channel="super_muzyka">
+    <title>M jak muzyka</title>
+    <desc>Żyjecie? gramy jeszcze najlepsze klasyki wieczorem!</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_3d2c435f332446eda5f41e0daecb67a7~mv2.png"/>
+  </programme>
+
+  <programme start="20260211230000 +0100" stop="20260212040000 +0100" channel="super_muzyka">
+    <title>Nocna zmiana</title>
+    <desc>Grzeczna muzyka? O tej porze możesz zapomnieć! Bez cenzury i dobrej zabawy!</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_658db068e9134a1a8afb591fab43760c~mv2.png"/>
+  </programme>
+
+  <programme start="20260212040000 +0100" stop="20260212050000 +0100" channel="super_muzyka">
+    <title>Piosenki w Programie 1</title>
+    <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
+    <category lang="pl">Program muzyczny</category>
+    <icon src="https://static.wixstatic.com/media/f287cb_94ca5a2f37534268b762160f91a9e6d5~mv2.png"/>
+  </programme>
+
+  <programme start="20260212050000 +0100" stop="20260212060000 +0100" channel="super_muzyka">
     <title>Piosenki w Programie 1</title>
     <desc>Piosenki w Programie 1 to program autorski Super Grupy, tam gdzie posłuchasz najlepsze piosenki z lat 80, 90 i 2000 w T1</desc>
     <category lang="pl">Program muzyczny</category>
